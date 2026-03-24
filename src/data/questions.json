@@ -1,0 +1,496 @@
+[
+  {
+    "id": 101,
+    "category": "bandharan",
+    "subject": "Bandharan",
+    "question": "ભારતીય બંધારણના આમુખમાં 'સમાજવાદી' અને 'બિનસાંપ્રદાયિક' શબ્દો કયા સુધારા દ્વારા ઉમેરવામાં આવ્યા?",
+    "options": [
+      "42મો સુધારો (1976)",
+      "44મો સુધારો (1978)",
+      "86મો સુધારો (2002)",
+      "73મો સુધારો (1992)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 102,
+    "category": "bandharan",
+    "subject": "Bandharan",
+    "question": "કેન્દ્ર અને રાજ્યો વચ્ચે સત્તાની વહેંચણી બંધારણની કઈ અનુસૂચિમાં દર્શાવવામાં આવી છે?",
+    "options": [
+      "5મી અનુસૂચિ",
+      "7મી અનુસૂચિ",
+      "8મી અનુસૂચિ",
+      "10મી અનુસૂચિ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 103,
+    "category": "bandharan",
+    "subject": "Administration",
+    "question": "પંચાયતી રાજ વ્યવસ્થાને બંધારણીય દરજ્જો કયા બંધારણીય સુધારા દ્વારા મળ્યો?",
+    "options": [
+      "72મો સુધારો",
+      "73મો સુધારો",
+      "74મો સુધારો",
+      "75મો સુધારો"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 104,
+    "category": "bandharan",
+    "subject": "Bandharan",
+    "question": "ભારતમાં એકલ નાગરિકતાનો સિદ્ધાંત કયા દેશના બંધારણમાંથી પ્રેરિત છે?",
+    "options": [
+      "અમેરિકા",
+      "બ્રિટન",
+      "આયર્લેન્ડ",
+      "રશિયા"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 105,
+    "category": "bandharan",
+    "subject": "Administration",
+    "question": "રાજ્યના મુખ્યમંત્રીની નિમણૂક કોણ કરે છે?",
+    "options": [
+      "રાષ્ટ્રપતિ",
+      "વડાપ્રધાન",
+      "રાજ્યપાલ",
+      "મુખ્ય ન્યાયાધીશ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 201,
+    "category": "history",
+    "subject": "History",
+    "question": "સિંધુખીણ સભ્યતાનું ప్రముఖ નગર 'લોથલ' કયા જિલ્લામાં આવેલું છે?",
+    "options": [
+      "ભાવનગર",
+      "રાજકોટ",
+      "અમદાવાદ",
+      "જામનગર"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 202,
+    "category": "history",
+    "subject": "History",
+    "question": "જૈન ધર્મના 24મા અને છેલ્લા તીર્થંકર કોણ હતા?",
+    "options": [
+      "ઋષભદેવ",
+      "પાર્શ્વનાથ",
+      "મહાવીર સ્વામી",
+      "નેમિનાથ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 203,
+    "category": "history",
+    "subject": "History",
+    "question": "1857 ના વિપ્લવ સમયે ભારતના ગવર્નર જનરલ કોણ હતા?",
+    "options": [
+      "લોર્ડ કિંગ",
+      "લોર્ડ કેનિંગ",
+      "લોર્ડ ડેલહાઉસી",
+      "લોર્ડ વેલેસ્લી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 204,
+    "category": "history",
+    "subject": "Heritage",
+    "question": "ગુજરાતની કઈ વાવને યુનેસ્કો(UNESCO) દ્વારા વર્લ્ડ હેરિટેજ સાઇટનો દરજ્જો આપવામાં આવ્યો છે?",
+    "options": [
+      "અડાલજની વાવ",
+      "રાણકી વાવ",
+      "દાદા હરિની વાવ",
+      "માતા ભવાનીની વાવ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 205,
+    "category": "history",
+    "subject": "Heritage",
+    "question": "ગુજરાતનું કયું શહેર 'સાક્ષરભૂમિ' તરીકે ઓળખાય છે?",
+    "options": [
+      "વડોદરા",
+      "અમદાવાદ",
+      "નડિયાદ",
+      "રાજકોટ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 301,
+    "category": "geography",
+    "subject": "Geography",
+    "question": "ગુજરાતનો કયો પ્રદેશ 'સોનેરી પાનનો મુલક' કહેવાય છે?",
+    "options": [
+      "કચ્છ",
+      "ચરોતર",
+      "ભાલ પ્રદેશ",
+      "કાનમ પ્રદેશ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 302,
+    "category": "geography",
+    "subject": "Geography",
+    "question": "ભારતનું સૌથી મોટું રાષ્ટ્રીય ઉદ્યાન (National Park) કયું છે?",
+    "options": [
+      "જીમ કોર્બેટ",
+      "ગીર",
+      "કાઝીરંગા",
+      "હેમિસ"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 303,
+    "category": "geography",
+    "subject": "Geography",
+    "question": "સાબરમતી નદીનું ઉદ્ગમ સ્થાન ક્યાં આવેલું છે?",
+    "options": [
+      "ગીરનારની ટેકરીઓ",
+      "અરવલ્લી પર્વતમાળા (રાજસ્થાન)",
+      "અમરકંટક",
+      "મહાબળેશ્વર"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 401,
+    "category": "science",
+    "subject": "Science & Tech",
+    "question": "ઇસરો (ISRO) ની સ્થાપના કયા વર્ષમાં થઈ હતી?",
+    "options": [
+      "1965",
+      "1969",
+      "1972",
+      "1958"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 402,
+    "category": "science",
+    "subject": "Science & Tech",
+    "question": "ચંદ્રયાન-3 ના રોવરનું નામ શું હતું?",
+    "options": [
+      "વિક્રમ",
+      "પ્રજ્ઞાન",
+      "આદિત્ય",
+      "ગગન"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 403,
+    "category": "science",
+    "subject": "Science & Tech",
+    "question": "ગ્રીનહાઉસ ઇફેક્ટ માટે મુખ્યત્વે કયો ગેસ જવાબદાર છે?",
+    "options": [
+      "ઓક્સિજન",
+      "નાઇટ્રોજન",
+      "કાર્બન ડાયોક્સાઇડ (CO2)",
+      "હાઇડ્રોજન"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 501,
+    "category": "maths_reasoning",
+    "subject": "Maths",
+    "question": "એક ટ્રેન 90 કિમી/કલાકની ઝડપે દોડે છે. 15 મિનિટમાં તે કેટલી મુસાફરી કરશે?",
+    "options": [
+      "20.5 કિમી",
+      "22.5 કિમી",
+      "25 કિમી",
+      "30 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 502,
+    "category": "maths_reasoning",
+    "subject": "Maths",
+    "question": "જો 15 માણસો એક કામ 20 દિવસમાં પૂરું કરે, તો 10 માણસો તે જ કામ કેટલા દિવસમાં પૂરું કરશે?",
+    "options": [
+      "25 દિવસ",
+      "30 દિવસ",
+      "35 દિવસ",
+      "40 દિવસ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 503,
+    "category": "maths_reasoning",
+    "subject": "Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 2, 6, 12, 20, 30, ?",
+    "options": [
+      "40",
+      "42",
+      "44",
+      "48"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 504,
+    "category": "maths_reasoning",
+    "subject": "Reasoning",
+    "question": "રક્ત સંબંધ: એક ફોટો તરફ આંગળી ચીંધીને રામે કહ્યું, 'તે મારા પિતાની એકમાત્ર પુત્રી છે'. તો ફોટાવાળી વ્યક્તિ રામની કોણ થાય?",
+    "options": [
+      "માતા",
+      "પત્ની",
+      "બહેન",
+      "પુત્રી"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 601,
+    "category": "vyakaran",
+    "subject": "Gujarati",
+    "question": "'અમૃત' શબ્દનો વિરોધી શબ્દ આપો.",
+    "options": [
+      "અમિય",
+      "ઝેર (વિષ)",
+      "મીઠાસ",
+      "કટુ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 602,
+    "category": "vyakaran",
+    "subject": "Gujarati",
+    "question": "સમાસ ઓળખાવો: 'પંચવટી'",
+    "options": [
+      "દ્વિગુ",
+      "દ્વંદ્વ",
+      "બહુવ્રીહિ",
+      "કર્મધારય"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 603,
+    "category": "vyakaran",
+    "subject": "English",
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Vaccuum",
+      "Vacuum",
+      "Vacum",
+      "Vuccum"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 604,
+    "category": "vyakaran",
+    "subject": "English",
+    "question": "If I ___ rich, I would buy a BMW.",
+    "options": [
+      "was",
+      "am",
+      "were",
+      "had been"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Maths",
+    "question": "એક પરીક્ષામાં પાસ થવા માટે 40% ગુણ જરૂરી છે. જો એક વિદ્યાર્થી 180 ગુણ મેળવે અને 20 ગુણથી નાપાસ થાય, તો પરીક્ષા કેટલા ગુણની હશે? (Percentage)",
+    "options": [
+      "600",
+      "500",
+      "400",
+      "800"
+    ],
+    "answer": 1,
+    "id": 1001
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Maths",
+    "question": "A અને B ની ઉંમરનો ગુણોત્તર 3:4 છે. જો બંનેની ઉંમરનો સરવાળો 56 વર્ષ હોય, તો A ની ઉંમર કેટલી હશે? (Ratio & Proportion)",
+    "options": [
+      "21 વર્ષ",
+      "24 વર્ષ",
+      "28 વર્ષ",
+      "32 વર્ષ"
+    ],
+    "answer": 1,
+    "id": 1002
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Maths",
+    "question": "એક વસ્તુ રૂપિયા 400 માં ખરીદીને રૂપિયા 500 માં વેચવામાં આવે તો કેટલા ટકા નફો થાય? (Profit & Loss)",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "40%"
+    ],
+    "answer": 1,
+    "id": 1003
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Maths",
+    "question": "જો A કોઈ કામ 10 દિવસમાં અને B તે જ કામ 15 દિવસમાં પૂર્ણ કરે છે, તો બંને સાથે મળીને તે કામ કેટલા દિવસમાં પૂર્ણ કરશે? (Time & Work)",
+    "options": [
+      "5 દિવસ",
+      "6 દિવસ",
+      "8 દિવસ",
+      "12 દિવસ"
+    ],
+    "answer": 1,
+    "id": 1004
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Maths",
+    "question": "જો એક કારની ઝડપ 72 કિમી/કલાક છે, તો તેની ઝડપ મીટર/સેકન્ડમાં કેટલી થાય? (Time, Speed & Distance)",
+    "options": [
+      "20 મી/સે",
+      "15 મી/સે",
+      "25 મી/સે",
+      "18 મી/સે"
+    ],
+    "answer": 0,
+    "id": 1005
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Maths",
+    "question": "50 + (25 ÷ 5) × 4 - 10 બરાબર કેટલા? (Simplification)",
+    "options": [
+      "60",
+      "50",
+      "40",
+      "70"
+    ],
+    "answer": 0,
+    "id": 1006
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Maths",
+    "question": "પ્રથમ 5 પ્રાકૃતિક સંખ્યાઓની સરેરાશ શોધો. (Average)",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1,
+    "id": 1007
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 5, 11, 19, 29, ? (Number Series)",
+    "options": [
+      "39",
+      "41",
+      "40",
+      "42"
+    ],
+    "answer": 1,
+    "id": 1008
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Reasoning",
+    "question": "જો Doctor : Hospital તો Teacher : ? (Analogy)",
+    "options": [
+      "Office",
+      "School",
+      "Student",
+      "Book"
+    ],
+    "answer": 1,
+    "id": 1009
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Reasoning",
+    "question": "જો CAT ને 24 (C=3, A=1, T=20) લખાય, તો DOG (D=4, O=15, G=7) ને શું લખાશે? (Coding-Decoding)",
+    "options": [
+      "26",
+      "28",
+      "24",
+      "25"
+    ],
+    "answer": 0,
+    "id": 1010
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Reasoning",
+    "question": "X એ Y નો ભાઈ છે. Y એ Z ની બહેન છે. તો X અને Z નો સંબંધ શું થાય? (Blood Relations)",
+    "options": [
+      "ભાઈ-બહેન",
+      "પિતા-પુત્રી",
+      "પતિ-પત્ની",
+      "દાદા-પૌત્ર"
+    ],
+    "answer": 0,
+    "id": 1011
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Reasoning",
+    "question": "એક માણસ ઉત્તર દિશામાં 5 કિમી ચાલે છે, પછી જમણી બાજુ વળી 3 કિમી ચાલે છે, ફરીથી જમણી બાજુ વળીને 5 કિમી ચાલે છે. તો હવે તે શરૂઆતના સ્થાનથી કઈ દિશામાં હશે? (Direction Sense)",
+    "options": [
+      "પૂર્વ",
+      "પશ્ચિમ",
+      "ઉત્તર",
+      "દક્ષિણ"
+    ],
+    "answer": 0,
+    "id": 1012
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Reasoning",
+    "question": "નીચેનામાંથી અન્ય ત્રણથી અલગ પડતો વિકલ્પ પસંદ કરો. (Classification)",
+    "options": [
+      "સફરજન",
+      "કેળું",
+      "ગાજર",
+      "કેરી"
+    ],
+    "answer": 2,
+    "id": 1013
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Reasoning",
+    "question": "A, B, C, D અને E એક લાઈનમાં બેઠા છે. C મધ્યમાં બેઠો છે. A અને B છેડા પર બેઠા છે. તો C ની બાજુમાં કોણ હોઈ શકે? (Seating Arrangement)",
+    "options": [
+      "ફક્ત A અને B",
+      "ફક્ત D અને E",
+      "A અને D",
+      "કોઈ નહિ"
+    ],
+    "answer": 1,
+    "id": 1014
+  }
+]
