@@ -2,11 +2,13 @@ import React, { useState } from 'react';
 
 const subjects = [
   { id: 'maths_reasoning', name: 'ગણિત અને બૌદ્ધિક ક્ષમતા (Maths & Reasoning)' },
-  { id: 'bandharan', name: 'બંધારણ અને જાહેર વહીવટ' },
-  { id: 'history', name: 'ઇતિહાસ અને સાંસ્કૃતિક વારસો' },
+  { id: 'bandharan', name: 'બંધારણ અને જાહેર વહીવટ (Constitution)' },
+  { id: 'history', name: 'ઇતિહાસ અને સાંસ્કૃતિક વારસો (History)' },
   { id: 'geography', name: 'ભૂગોળ (Geography)' },
-  { id: 'science', name: 'વિજ્ઞાન અને ટેકનોલોજી' },
-  { id: 'vyakaran', name: 'ગુજરાતી અને અંગ્રેજી વ્યાકરણ' }
+  { id: 'science', name: 'વિજ્ઞાન અને ટેકનોલોજી (Science)' },
+  { id: 'vyakaran', name: 'ગુજરાતી અને અંગ્રેજી વ્યાકરણ (Grammar)' },
+  { id: 'environment', name: 'પર્યાવરણ (Environment)' },
+  { id: 'economics', name: 'અર્થશાસ્ત્ર (Economics)' }
 ];
 
 const Home = ({ onStart }) => {

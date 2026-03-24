@@ -1,0 +1,171 @@
+[
+  {
+    "id": 401,
+    "category": "science",
+    "subject": "Science & Tech",
+    "question": "ઇસરો (ISRO) ની સ્થાપના કયા વર્ષમાં થઈ હતી?",
+    "options": [
+      "1965",
+      "1969",
+      "1972",
+      "1958"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 402,
+    "category": "science",
+    "subject": "Science & Tech",
+    "question": "ચંદ્રયાન-3 ના રોવરનું નામ શું હતું?",
+    "options": [
+      "વિક્રમ",
+      "પ્રજ્ઞાન",
+      "આદિત્ય",
+      "ગગન"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 403,
+    "category": "science",
+    "subject": "Science & Tech",
+    "question": "ગ્રીનહાઉસ ઇફેક્ટ માટે મુખ્યત્વે કયો ગેસ જવાબદાર છે?",
+    "options": [
+      "ઓક્સિજન",
+      "નાઇટ્રોજન",
+      "કાર્બન ડાયોક્સાઇડ (CO2)",
+      "હાઇડ્રોજન"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4004,
+    "category": "science",
+    "subject": "Science & Tech",
+    "question": "વિટામિન સી ની ઉણપથી કયો રોગ થાય છે?",
+    "options": [
+      "રતાંધળાપણું",
+      "સ્કર્વી",
+      "સુક્તાન",
+      "ગોઈટર"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4005,
+    "category": "science",
+    "subject": "Science & Tech",
+    "question": "મનુષ્યના હૃદયમાં કેટલા ખાના (ખંડો) હોય છે?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4006,
+    "category": "science",
+    "subject": "Science & Tech",
+    "question": "લીંબુમાં કયો ઍસિડ હોય છે?",
+    "options": [
+      "સાઇટ્રિક ઍસિડ",
+      "લેક્ટિક ઍસિડ",
+      "ટાર્ટરિક ઍસિડ",
+      "ઓક્સેલિક ઍસિડ"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 4007,
+    "category": "science",
+    "subject": "Science & Tech",
+    "question": "ISRO નું હેડક્વાર્ટર ક્યાં આવેલું છે?",
+    "options": [
+      "હૈદરાબાદ",
+      "તિરુવનંતપુરમ",
+      "બેંગલુરુ",
+      "શ્રીહરિકોટા"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4008,
+    "category": "science",
+    "subject": "Science & Tech",
+    "question": "લોખંડને કાટ લાગવો એ કેવી પ્રક્રિયા છે?",
+    "options": [
+      "ભૌતિક",
+      "રાસાયણિક",
+      "જૈવિક",
+      "આપેલ તમામ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4009,
+    "category": "science",
+    "subject": "Science & Tech",
+    "question": "થર્મોમીટરમાં કયું પ્રવાહી વપરાય છે?",
+    "options": [
+      "પાણી",
+      "પારો (Mercury)",
+      "આલ્કોહોલ",
+      "તેલ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4010,
+    "category": "science",
+    "subject": "Science & Tech",
+    "question": "આગ ઓલવવા માટે કયા વાયુનો ઉપયોગ થાય છે?",
+    "options": [
+      "ઓક્સિજન",
+      "નાઇટ્રોજન",
+      "કાર્બન ડાયોક્સાઇડ",
+      "હાઇડ્રોજન"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4011,
+    "category": "science",
+    "subject": "Science & Tech",
+    "question": "કોમ્પ્યુટરની સ્મૃતિ (Memory) સામાન્ય રીતે શેમાં મપાય છે?",
+    "options": [
+      "હર્ટ્ઝ (Hz)",
+      "બાઈટ્સ (Bytes)",
+      "વોલ્ટ (Volt)",
+      "એમ્પીયર (Ampere)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4012,
+    "category": "science",
+    "subject": "Science & Tech",
+    "question": "'આદિત્ય L1' મિશન શાના અભ્યાસ માટે છે?",
+    "options": [
+      "ચંદ્ર",
+      "મંગળ",
+      "સૂર્ય",
+      "ગુરુ"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4013,
+    "category": "science",
+    "subject": "Science & Tech",
+    "question": "શરીરમાં લોહીના શુદ્ધિકરણનું કાર્ય કયું અંગ કરે છે?",
+    "options": [
+      "હૃદય",
+      "કિડની (મૂત્રપિંડ)",
+      "ફેફસાં",
+      "સ્વાદુપિંડ"
+    ],
+    "answer": 1
+  }
+]

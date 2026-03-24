@@ -1,0 +1,236 @@
+[
+  {
+    "id": 501,
+    "category": "maths_reasoning",
+    "subject": "Maths",
+    "question": "એક ટ્રેન 90 કિમી/કલાકની ઝડપે દોડે છે. 15 મિનિટમાં તે કેટલી મુસાફરી કરશે?",
+    "options": [
+      "20.5 કિમી",
+      "22.5 કિમી",
+      "25 કિમી",
+      "30 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 502,
+    "category": "maths_reasoning",
+    "subject": "Maths",
+    "question": "જો 15 માણસો એક કામ 20 દિવસમાં પૂરું કરે, તો 10 માણસો તે જ કામ કેટલા દિવસમાં પૂરું કરશે?",
+    "options": [
+      "25 દિવસ",
+      "30 દિવસ",
+      "35 દિવસ",
+      "40 દિવસ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 503,
+    "category": "maths_reasoning",
+    "subject": "Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 2, 6, 12, 20, 30, ?",
+    "options": [
+      "40",
+      "42",
+      "44",
+      "48"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 504,
+    "category": "maths_reasoning",
+    "subject": "Reasoning",
+    "question": "રક્ત સંબંધ: એક ફોટો તરફ આંગળી ચીંધીને રામે કહ્યું, 'તે મારા પિતાની એકમાત્ર પુત્રી છે'. તો ફોટાવાળી વ્યક્તિ રામની કોણ થાય?",
+    "options": [
+      "માતા",
+      "પત્ની",
+      "બહેન",
+      "પુત્રી"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Maths",
+    "question": "એક પરીક્ષામાં પાસ થવા માટે 40% ગુણ જરૂરી છે. જો એક વિદ્યાર્થી 180 ગુણ મેળવે અને 20 ગુણથી નાપાસ થાય, તો પરીક્ષા કેટલા ગુણની હશે? (Percentage)",
+    "options": [
+      "600",
+      "500",
+      "400",
+      "800"
+    ],
+    "answer": 1,
+    "id": 1001
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Maths",
+    "question": "A અને B ની ઉંમરનો ગુણોત્તર 3:4 છે. જો બંનેની ઉંમરનો સરવાળો 56 વર્ષ હોય, તો A ની ઉંમર કેટલી હશે? (Ratio & Proportion)",
+    "options": [
+      "21 વર્ષ",
+      "24 વર્ષ",
+      "28 વર્ષ",
+      "32 વર્ષ"
+    ],
+    "answer": 1,
+    "id": 1002
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Maths",
+    "question": "એક વસ્તુ રૂપિયા 400 માં ખરીદીને રૂપિયા 500 માં વેચવામાં આવે તો કેટલા ટકા નફો થાય? (Profit & Loss)",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "40%"
+    ],
+    "answer": 1,
+    "id": 1003
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Maths",
+    "question": "જો A કોઈ કામ 10 દિવસમાં અને B તે જ કામ 15 દિવસમાં પૂર્ણ કરે છે, તો બંને સાથે મળીને તે કામ કેટલા દિવસમાં પૂર્ણ કરશે? (Time & Work)",
+    "options": [
+      "5 દિવસ",
+      "6 દિવસ",
+      "8 દિવસ",
+      "12 દિવસ"
+    ],
+    "answer": 1,
+    "id": 1004
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Maths",
+    "question": "જો એક કારની ઝડપ 72 કિમી/કલાક છે, તો તેની ઝડપ મીટર/સેકન્ડમાં કેટલી થાય? (Time, Speed & Distance)",
+    "options": [
+      "20 મી/સે",
+      "15 મી/સે",
+      "25 મી/સે",
+      "18 મી/સે"
+    ],
+    "answer": 0,
+    "id": 1005
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Maths",
+    "question": "50 + (25 ÷ 5) × 4 - 10 બરાબર કેટલા? (Simplification)",
+    "options": [
+      "60",
+      "50",
+      "40",
+      "70"
+    ],
+    "answer": 0,
+    "id": 1006
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Maths",
+    "question": "પ્રથમ 5 પ્રાકૃતિક સંખ્યાઓની સરેરાશ શોધો. (Average)",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1,
+    "id": 1007
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 5, 11, 19, 29, ? (Number Series)",
+    "options": [
+      "39",
+      "41",
+      "40",
+      "42"
+    ],
+    "answer": 1,
+    "id": 1008
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Reasoning",
+    "question": "જો Doctor : Hospital તો Teacher : ? (Analogy)",
+    "options": [
+      "Office",
+      "School",
+      "Student",
+      "Book"
+    ],
+    "answer": 1,
+    "id": 1009
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Reasoning",
+    "question": "જો CAT ને 24 (C=3, A=1, T=20) લખાય, તો DOG (D=4, O=15, G=7) ને શું લખાશે? (Coding-Decoding)",
+    "options": [
+      "26",
+      "28",
+      "24",
+      "25"
+    ],
+    "answer": 0,
+    "id": 1010
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Reasoning",
+    "question": "X એ Y નો ભાઈ છે. Y એ Z ની બહેન છે. તો X અને Z નો સંબંધ શું થાય? (Blood Relations)",
+    "options": [
+      "ભાઈ-બહેન",
+      "પિતા-પુત્રી",
+      "પતિ-પત્ની",
+      "દાદા-પૌત્ર"
+    ],
+    "answer": 0,
+    "id": 1011
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Reasoning",
+    "question": "એક માણસ ઉત્તર દિશામાં 5 કિમી ચાલે છે, પછી જમણી બાજુ વળી 3 કિમી ચાલે છે, ફરીથી જમણી બાજુ વળીને 5 કિમી ચાલે છે. તો હવે તે શરૂઆતના સ્થાનથી કઈ દિશામાં હશે? (Direction Sense)",
+    "options": [
+      "પૂર્વ",
+      "પશ્ચિમ",
+      "ઉત્તર",
+      "દક્ષિણ"
+    ],
+    "answer": 0,
+    "id": 1012
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Reasoning",
+    "question": "નીચેનામાંથી અન્ય ત્રણથી અલગ પડતો વિકલ્પ પસંદ કરો. (Classification)",
+    "options": [
+      "સફરજન",
+      "કેળું",
+      "ગાજર",
+      "કેરી"
+    ],
+    "answer": 2,
+    "id": 1013
+  },
+  {
+    "category": "maths_reasoning",
+    "subject": "Reasoning",
+    "question": "A, B, C, D અને E એક લાઈનમાં બેઠા છે. C મધ્યમાં બેઠો છે. A અને B છેડા પર બેઠા છે. તો C ની બાજુમાં કોણ હોઈ શકે? (Seating Arrangement)",
+    "options": [
+      "ફક્ત A અને B",
+      "ફક્ત D અને E",
+      "A અને D",
+      "કોઈ નહિ"
+    ],
+    "answer": 1,
+    "id": 1014
+  }
+]

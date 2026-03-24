@@ -1,0 +1,184 @@
+[
+  {
+    "id": 601,
+    "category": "vyakaran",
+    "subject": "Gujarati",
+    "question": "'અમૃત' શબ્દનો વિરોધી શબ્દ આપો.",
+    "options": [
+      "અમિય",
+      "ઝેર (વિષ)",
+      "મીઠાસ",
+      "કટુ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 602,
+    "category": "vyakaran",
+    "subject": "Gujarati",
+    "question": "સમાસ ઓળખાવો: 'પંચવટી'",
+    "options": [
+      "દ્વિગુ",
+      "દ્વંદ્વ",
+      "બહુવ્રીહિ",
+      "કર્મધારય"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 603,
+    "category": "vyakaran",
+    "subject": "English",
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Vaccuum",
+      "Vacuum",
+      "Vacum",
+      "Vuccum"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 604,
+    "category": "vyakaran",
+    "subject": "English",
+    "question": "If I ___ rich, I would buy a BMW.",
+    "options": [
+      "was",
+      "am",
+      "were",
+      "had been"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 6005,
+    "category": "vyakaran",
+    "subject": "Grammar",
+    "question": "વિરુદ્ધાર્થી શબ્દ આપો: 'રંક'",
+    "options": [
+      "ગરીબ",
+      "રાજા (રાવ)",
+      "પૈસાદાર",
+      "દરિદ્ર"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 6006,
+    "category": "vyakaran",
+    "subject": "Grammar",
+    "question": "સમાનાર્થી શબ્દ પસંદ કરો: 'નયન'",
+    "options": [
+      "હાથ",
+      "આંખ",
+      "કાન",
+      "નાક"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 6007,
+    "category": "vyakaran",
+    "subject": "Grammar",
+    "question": "કહેવતનો અર્થ આપો: 'નાચવું ન હોય તો આંગણું વાંકું'",
+    "options": [
+      "કામ ન કરવું હોય તો બહાના કાઢવા",
+      "નાચતા ન આવડવું",
+      "આંગણું ખરાબ હોવું",
+      "બીજાને કામ ન કરવા દેવું"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6008,
+    "category": "vyakaran",
+    "subject": "Grammar",
+    "question": "સંધિ છોડો: 'હિમાલય'",
+    "options": [
+      "હિમ + લય",
+      "હિમ + આલય",
+      "હીમ + આલય",
+      "હિમા + લય"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 6009,
+    "category": "vyakaran",
+    "subject": "Grammar",
+    "question": "નીચેનામાંથી કયું દ્વંદ્વ સમાસનું ઉદાહરણ છે?",
+    "options": [
+      "રાત-દિવસ",
+      "મહાદેવ",
+      "દશાનન",
+      "ત્રિભુવન"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6010,
+    "category": "vyakaran",
+    "subject": "Grammar",
+    "question": "Choose the correct article: She is ___ honest girl.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 6011,
+    "category": "vyakaran",
+    "subject": "Grammar",
+    "question": "Select the plural of 'Child'",
+    "options": [
+      "Childs",
+      "Childrens",
+      "Children",
+      "Childes"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 6012,
+    "category": "vyakaran",
+    "subject": "Grammar",
+    "question": "Find the synonym of 'Happy'",
+    "options": [
+      "Sad",
+      "Joyful",
+      "Angry",
+      "Tired"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 6013,
+    "category": "vyakaran",
+    "subject": "Grammar",
+    "question": "'અડકો દડકો' કેવા પ્રકારની રચના છે?",
+    "options": [
+      "કાવ્ય",
+      "નવલકથા",
+      "લોકગીત/લોકરમત",
+      "નાટક"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 6014,
+    "category": "vyakaran",
+    "subject": "Grammar",
+    "question": "Which tense is 'I was playing cricket'?",
+    "options": [
+      "Simple Past",
+      "Past Continuous",
+      "Future",
+      "Present Perfect"
+    ],
+    "answer": 1
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "category": "economics",
+    "subject": "Economics",
+    "question": "ભારતીય રિઝર્વ બેંક (RBI) ની સ્થાપના ક્યારે થઈ હતી?",
+    "options": [
+      "1935",
+      "1947",
+      "1950",
+      "1949"
+    ],
+    "answer": 0,
+    "id": 801
+  },
+  {
+    "category": "economics",
+    "subject": "Economics",
+    "question": "નીચેનામાંથી કયો કર (Tax) પરોક્ષ કર (Indirect Tax) છે?",
+    "options": [
+      "આવકવેરો (Income Tax)",
+      "કોર્પોરેટ ટેક્સ",
+      "જીએસટી (GST)",
+      "સંપત્તિ કર (Wealth Tax)"
+    ],
+    "answer": 2,
+    "id": 802
+  },
+  {
+    "category": "economics",
+    "subject": "Economics",
+    "question": "જીડીપી (GDP) નું પૂર્ણ રૂપ શું છે?",
+    "options": [
+      "Gross Domestic Product",
+      "Gross Domestic Plan",
+      "General Domestic Product",
+      "Global Domestic Product"
+    ],
+    "answer": 0,
+    "id": 803
+  },
+  {
+    "id": 8004,
+    "category": "economics",
+    "subject": "Economics",
+    "question": "નીતિ આયોગ (NITI Aayog) ના ચેરમેન કોણ હોય છે?",
+    "options": [
+      "રાષ્ટ્રપતિ",
+      "નાણામંત્રી",
+      "વડાપ્રધાન",
+      "રિઝર્વ બેંકના ગવર્નર"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 8005,
+    "category": "economics",
+    "subject": "Economics",
+    "question": "ભારતમાં નોટબંધી (Demonetization) કયા વર્ષે થઈ હતી?",
+    "options": [
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 8006,
+    "category": "economics",
+    "subject": "Economics",
+    "question": "GST નું પૂરું નામ શું છે?",
+    "options": [
+      "General Sales Tax",
+      "Goods and Services Tax",
+      "Global Standard Tax",
+      "Government Service Tax"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 8007,
+    "category": "economics",
+    "subject": "Economics",
+    "question": "ભારતની નાણાકીય રાજધાની કઈ ગણાય છે?",
+    "options": [
+      "દિલ્હી",
+      "મુબંઈ",
+      "અમદાવાદ",
+      "બેંગલુરુ"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 8008,
+    "category": "economics",
+    "subject": "Economics",
+    "question": "પ્રાથમિક ક્ષેત્ર (Primary Sector) માં શેનો સમાવેશ થાય છે?",
+    "options": [
+      "ઉદ્યોગો",
+      "બેન્કિંગ અને સેવાઓ",
+      "ખેતી, પશુપાલન અને ખાણકામ",
+      "ટ્રાન્સપોર્ટેશન"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 8009,
+    "category": "economics",
+    "subject": "Economics",
+    "question": "ભારતમાં પંચવર્ષીય યોજના ખ્યાલ કયા દેશમાંથી લીધો હતો?",
+    "options": [
+      "અમેરિકા",
+      "રશિયા (USSR)",
+      "બ્રિટન",
+      "જાપાન"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 8010,
+    "category": "economics",
+    "subject": "Economics",
+    "question": "'શ્વેત ક્રાંતિ' (White Revolution) શેની સાથે સંકળાયેલ છે?",
+    "options": [
+      "કપાસ",
+      "દૂધ",
+      "ચોખા",
+      "ઈંડા"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 8011,
+    "category": "economics",
+    "subject": "Economics",
+    "question": "SEBI નું મુખ્ય કાર્ય શું છે?",
+    "options": [
+      "શેર બજાર અને સિક્યુરિટીઝનું નિયમન",
+      "બેન્કોને લોન આપવી",
+      "વાહનવ્યવહાર નિયંત્રણ",
+      "નાણાકિય સબસીડી આપવી"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 8012,
+    "category": "economics",
+    "subject": "Economics",
+    "question": "રેપો રેટ (Repo Rate) કોણ નક્કી કરે છે?",
+    "options": [
+      "SBI",
+      "નાણા મંત્રાલય",
+      "RBI",
+      "SEBI"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 8013,
+    "category": "economics",
+    "subject": "Economics",
+    "question": "ગુજરાતમાં 'ગિફ્ટ સિટી' (GIFT City) કયા શહેર પાસે આવેલું છે?",
+    "options": [
+      "અમદાવાદ",
+      "વડોદરા",
+      "સુરત",
+      "ગાંધીનગર"
+    ],
+    "answer": 3
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "category": "environment",
+    "subject": "Environment",
+    "question": "વિશ્વ પર્યાવરણ દિવસ ક્યારે ઉજવવામાં આવે છે?",
+    "options": [
+      "5 જૂન",
+      "21 માર્ચ",
+      "22 એપ્રિલ",
+      "1 ડિસેમ્બર"
+    ],
+    "answer": 0,
+    "id": 701
+  },
+  {
+    "category": "environment",
+    "subject": "Environment",
+    "question": "ભારતનો પ્રથમ રાષ્ટ્રીય ઉદ્યાન કયો છે?",
+    "options": [
+      "ગીર નેશનલ પાર્ક",
+      "જીમ કોર્બેટ નેશનલ પાર્ક",
+      "કાઝીરંગા નેશનલ પાર્ક",
+      "સુંદરવન નેશનલ પાર્ક"
+    ],
+    "answer": 1,
+    "id": 702
+  },
+  {
+    "category": "environment",
+    "subject": "Environment",
+    "question": "'પ્રોજેક્ટ ટાઈગર' કયા વર્ષમાં શરૂ કરવામાં આવ્યો હતો?",
+    "options": [
+      "1970",
+      "1971",
+      "1973",
+      "1975"
+    ],
+    "answer": 2,
+    "id": 703
+  },
+  {
+    "id": 7004,
+    "category": "environment",
+    "subject": "Environment",
+    "question": "ઓઝોન સ્તર વાતાવરણના કયા આવરણમાં આવેલું છે?",
+    "options": [
+      "ટ્રોપોસ્ફીયર",
+      "સ્ટ્રેટોસ્ફીયર",
+      "મેસોસ્ફીયર",
+      "આયનોસ્ફીયર"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7005,
+    "category": "environment",
+    "subject": "Environment",
+    "question": "વાતાવરણમાં સૌથી વધુ પ્રમાણ કયા વાયુનું છે?",
+    "options": [
+      "ઓક્સિજન",
+      "નાઇટ્રોજન",
+      "કાર્બન ડાયોક્સાઇડ",
+      "આર્ગોન"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7006,
+    "category": "environment",
+    "subject": "Environment",
+    "question": "ગુજરાતનું રાજ્ય પ્રાણી કયું છે?",
+    "options": [
+      "સિંહ",
+      "વાઘ",
+      "દીપડો",
+      "હાથી"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 7007,
+    "category": "environment",
+    "subject": "Environment",
+    "question": "'ચિપકો આંદોલન' કોની સાથે સંકળાયેલું છે?",
+    "options": [
+      "નદી બચાવો",
+      "જંગલો/વૃક્ષો બચાવો",
+      "પ્રાણીઓ બચાવો",
+      "હવા બચાવો"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7008,
+    "category": "environment",
+    "subject": "Environment",
+    "question": "કયો વાયુ ગ્રીનહાઉસ અસર માટે સૌથી વધુ જવાબદાર છે?",
+    "options": [
+      "N2",
+      "O2",
+      "CO2",
+      "SO2"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 7009,
+    "category": "environment",
+    "subject": "Environment",
+    "question": "ભારતનો ઍનિમલ વેલ્ફેર બોર્ડ (AWBI) ક્યાં આવેલ છે?",
+    "options": [
+      "ચેન્નઈ (ફરીદાબાદ શિફ્ટ થયેલ કોલકટા) - હાલ ફરીદાબાદ",
+      "નવી દિલ્હી",
+      "મુંબઈ",
+      "બેંગલુરુ"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 7010,
+    "category": "environment",
+    "subject": "Environment",
+    "question": "ગુજરાતમાં કાળિયાર (Blackbuck) નેશનલ પાર્ક ક્યાં છે?",
+    "options": [
+      "વેળાવદર",
+      "ગીર",
+      "વાંસદા",
+      "જામનગર"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 7011,
+    "category": "environment",
+    "subject": "Environment",
+    "question": "'જળ પ્રદૂષણ નિવારણ અને નિયંત્રણ અધિનિયમ' કયા વર્ષે પસાર થયો?",
+    "options": [
+      "1974",
+      "1981",
+      "1986",
+      "1972"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 7012,
+    "category": "environment",
+    "subject": "Environment",
+    "question": "કેવળાદેવ ઘાના પક્ષી અભયારણ્ય ક્યાં આવેલું છે?",
+    "options": [
+      "ગુજરાત",
+      "રાજસ્થાન",
+      "મધ્યપ્રદેશ",
+      "હરિયાણા"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7013,
+    "category": "environment",
+    "subject": "Environment",
+    "question": "વૈશ્વિક તાપમાન વધારા (Global Warming) થી કોને સૌથી વધુ ખતરો છે?",
+    "options": [
+      "હિમનદીઓ પિગળવા (Glaciers)",
+      "જ્વાળામુખી ફાટવા",
+      "ભૂકંપ રચાવા",
+      "તમામ"
+    ],
+    "answer": 0
+  }
+]
