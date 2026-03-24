@@ -24,22 +24,21 @@ const subjectDataMap = {
 };
 import './index.css';
 
+// જો તમે તમારા યુઝર્સને અનલિમિટેડ પ્રશ્નો આપવા માંગતા હોવ, તો તમારી Google API Key અહી પેસ્ટ કરી દો.
+// ઉદાહરણ: const MY_API_KEY = "AIzaSyD.......";
+const MY_API_KEY = ""; 
+
 function App() {
   const [gameState, setGameState] = useState('home'); // home, quiz, result
   const [quizConfig, setQuizConfig] = useState({ duration: 10, qCount: 10, subject: '' });
   const [selectedQuestions, setSelectedQuestions] = useState([]);
   const [userAnswers, setUserAnswers] = useState({});
-  const [apiKey, setApiKey] = useState(localStorage.getItem('geminiApiKey') || '');
+  const apiKey = MY_API_KEY;
   const [isLoading, setIsLoading] = useState(false);
-  const [showAiModal, setShowAiModal] = useState(false);
+
   // Store previous AI questions so they never repeat
   const [askedQuestionsHistory, setAskedQuestionsHistory] = useState(() => JSON.parse(localStorage.getItem('askedQuestionsHistory') || '[]'));
 
-  const saveApiKey = (key) => {
-    localStorage.setItem('geminiApiKey', key);
-    setApiKey(key);
-    setShowAiModal(false);
-  };
 
   const startOfflineQuiz = (subject, duration, qCount) => {
     setQuizConfig({ subject, duration, qCount });
@@ -49,14 +48,17 @@ function App() {
     const offlineAsked = JSON.parse(localStorage.getItem('offlineAsked') || '[]');
     let availableQuestions = filteredQuestions.filter(q => !offlineAsked.includes(q.id));
 
-    if (availableQuestions.length >= qCount) {
-      selected = [...availableQuestions].sort(() => 0.5 - Math.random()).slice(0, qCount);
-      localStorage.setItem('offlineAsked', JSON.stringify([...offlineAsked, ...selected.map(q => q.id)]));
-    } else {
-      // If we don't have enough offline questions left, alert them
-      alert('સાહેબ, આ વિષયના તમામ ઓફલાઇન પ્રશ્નો તમે રમી ચૂક્યા છો! હવે એક પણ વાર રિપીટ ન થાય તે માટે કડક કાયદો છે. વધુ પ્રશ્નો માટે મહેરબાની કરીને ફ્રી AI Key નાખો.');
-      return;
+    // If we run out of new unseen questions, SILENTLY reset their history to keep the game running infinitely!
+    if (availableQuestions.length < qCount) {
+      availableQuestions = [...filteredQuestions]; // Reset pool
+      localStorage.setItem('offlineAsked', JSON.stringify([])); // Clear memory
     }
+
+    selected = [...availableQuestions].sort(() => 0.5 - Math.random()).slice(0, qCount);
+
+    // Remember these new questions
+    const currentAsked = JSON.parse(localStorage.getItem('offlineAsked') || '[]');
+    localStorage.setItem('offlineAsked', JSON.stringify([...currentAsked, ...selected.map(q => q.id)]));
 
     setSelectedQuestions(selected);
     setUserAnswers({});
@@ -101,31 +103,11 @@ function App() {
   return (
     <div className="app-container">
       <div className="glass-panel">
-        <header className="app-header" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-          <div></div>
-          <button onClick={() => setShowAiModal(true)} className="btn-secondary" style={{ fontSize: '0.8rem', padding: '0.3rem 0.6rem' }}>
-            {apiKey ? '✅ AI Active' : '🤖 Set AI Key (Unlimited)'}
-          </button>
+        <header className="app-header">
+          <h1 style={{ fontSize: '1.5rem', textAlign: 'center', margin: 0 }}>ગુજરાત પોલીસ / PSI મોક ટેસ્ટ</h1>
         </header>
 
         <main className="main-content">
-          {showAiModal && (
-            <div style={{ background: 'var(--light-bg)', padding: '1.5rem', borderRadius: '12px', border: '1px solid var(--border)', marginBottom: '1.5rem' }}>
-              <h3>Google Gemini API Key સેટ કરો 🤖</h3>
-              <p style={{ marginBottom: '1rem', fontSize: '0.9rem', color: 'var(--gray)' }}>
-                તમારી ફ્રી API key (Google AI Studio) અહી નાખવાથી, પ્રશ્નો AI જાતે જ બનાવશે અને <strong>ક્યારેય રિપીટ નહીં થાય</strong>.
-              </p>
-              <input
-                type="password"
-                placeholder="Paste Key Here..."
-                defaultValue={apiKey}
-                id="gemini-key-input"
-                style={{ width: '100%', padding: '0.8rem', marginBottom: '1rem', borderRadius: '8px', border: '1px solid var(--border)' }}
-              />
-              <button className="btn-primary" onClick={() => saveApiKey(document.getElementById('gemini-key-input').value)}>Save Key</button>
-              <button className="btn-secondary" style={{ marginLeft: '0.5rem' }} onClick={() => setShowAiModal(false)}>Cancel</button>
-            </div>
-          )}
 
           {isLoading && (
             <div style={{ textAlign: 'center', padding: '3rem' }}>

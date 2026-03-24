@@ -232,5 +232,6505 @@
     ],
     "answer": 1,
     "id": 1014
+  },
+  {
+    "id": 50001,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 140 કિમી/કલાકની ઝડપે દોડે છે, તો તે 11 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1490 કિમી",
+      "1540 કિમી",
+      "1560 કિમી",
+      "1590 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50002,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 6 દિવસમાં અને B તે જ કામ 11 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/11",
+      "1/17",
+      "1/6",
+      "6/11"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50003,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 2, 5, 8, 11, ?",
+    "options": [
+      "12",
+      "14",
+      "17",
+      "13"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50004,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹440 હોય અને તેના પર 30% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹132",
+      "₹142",
+      "₹127",
+      "₹152"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50005,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 100 કિમી/કલાકની ઝડપે દોડે છે, તો તે 12 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1150 કિમી",
+      "1200 કિમી",
+      "1220 કિમી",
+      "1250 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50006,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 24 દિવસમાં અને B તે જ કામ 30 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/30",
+      "1/54",
+      "1/24",
+      "24/30"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50007,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 10, 13, 16, 19, ?",
+    "options": [
+      "20",
+      "22",
+      "25",
+      "21"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50008,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹550 હોય અને તેના પર 34% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹187",
+      "₹197",
+      "₹182",
+      "₹207"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50009,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 130 કિમી/કલાકની ઝડપે દોડે છે, તો તે 13 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1640 કિમી",
+      "1690 કિમી",
+      "1710 કિમી",
+      "1740 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50010,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 14 દિવસમાં અને B તે જ કામ 18 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/18",
+      "1/32",
+      "1/14",
+      "14/18"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50011,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 3, 6, 9, 12, ?",
+    "options": [
+      "13",
+      "15",
+      "18",
+      "14"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50012,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹350 હોય અને તેના પર 32% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹112",
+      "₹122",
+      "₹107",
+      "₹132"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50013,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 70 કિમી/કલાકની ઝડપે દોડે છે, તો તે 10 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "650 કિમી",
+      "700 કિમી",
+      "720 કિમી",
+      "750 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50014,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 13 દિવસમાં અને B તે જ કામ 16 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/16",
+      "1/29",
+      "1/13",
+      "13/16"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50015,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 2, 5, 8, 11, ?",
+    "options": [
+      "12",
+      "14",
+      "17",
+      "13"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50016,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹300 હોય અને તેના પર 19% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹57",
+      "₹67",
+      "₹52",
+      "₹77"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50017,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 60 કિમી/કલાકની ઝડપે દોડે છે, તો તે 11 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "610 કિમી",
+      "660 કિમી",
+      "680 કિમી",
+      "710 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50018,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 24 દિવસમાં અને B તે જ કામ 29 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/29",
+      "1/53",
+      "1/24",
+      "24/29"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50019,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 6, 9, 12, 15, ?",
+    "options": [
+      "16",
+      "18",
+      "21",
+      "17"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50020,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹170 હોય અને તેના પર 57% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹96.9",
+      "₹106.9",
+      "₹91.9",
+      "₹116.9"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50021,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 60 કિમી/કલાકની ઝડપે દોડે છે, તો તે 13 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "730 કિમી",
+      "780 કિમી",
+      "800 કિમી",
+      "830 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50022,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 19 દિવસમાં અને B તે જ કામ 25 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/25",
+      "1/44",
+      "1/19",
+      "19/25"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50023,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 5, 8, 11, 14, ?",
+    "options": [
+      "15",
+      "17",
+      "20",
+      "16"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50024,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹390 હોય અને તેના પર 11% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹42.9",
+      "₹52.9",
+      "₹37.9",
+      "₹62.9"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50025,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 90 કિમી/કલાકની ઝડપે દોડે છે, તો તે 12 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1030 કિમી",
+      "1080 કિમી",
+      "1100 કિમી",
+      "1130 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50026,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 15 દિવસમાં અને B તે જ કામ 21 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/21",
+      "1/36",
+      "1/15",
+      "15/21"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50027,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 7, 10, 13, 16, ?",
+    "options": [
+      "17",
+      "19",
+      "22",
+      "18"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50028,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹260 હોય અને તેના પર 24% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹62.4",
+      "₹72.4",
+      "₹57.4",
+      "₹82.4"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50029,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 140 કિમી/કલાકની ઝડપે દોડે છે, તો તે 8 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1070 કિમી",
+      "1120 કિમી",
+      "1140 કિમી",
+      "1170 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50030,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 11 દિવસમાં અને B તે જ કામ 14 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/14",
+      "1/25",
+      "1/11",
+      "11/14"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50031,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 12, 15, 18, 21, ?",
+    "options": [
+      "22",
+      "24",
+      "27",
+      "23"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50032,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹380 હોય અને તેના પર 55% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹209",
+      "₹219",
+      "₹204",
+      "₹229"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50033,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 60 કિમી/કલાકની ઝડપે દોડે છે, તો તે 13 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "730 કિમી",
+      "780 કિમી",
+      "800 કિમી",
+      "830 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50034,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 19 દિવસમાં અને B તે જ કામ 21 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/21",
+      "1/40",
+      "1/19",
+      "19/21"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50035,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 19, 22, 25, 28, ?",
+    "options": [
+      "29",
+      "31",
+      "34",
+      "30"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50036,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹340 હોય અને તેના પર 53% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹180.2",
+      "₹190.2",
+      "₹175.2",
+      "₹200.2"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50037,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 70 કિમી/કલાકની ઝડપે દોડે છે, તો તે 10 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "650 કિમી",
+      "700 કિમી",
+      "720 કિમી",
+      "750 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50038,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 8 દિવસમાં અને B તે જ કામ 13 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/13",
+      "1/21",
+      "1/8",
+      "8/13"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50039,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 17, 20, 23, 26, ?",
+    "options": [
+      "27",
+      "29",
+      "32",
+      "28"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50040,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹220 હોય અને તેના પર 38% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹83.6",
+      "₹93.6",
+      "₹78.6",
+      "₹103.6"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50041,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 80 કિમી/કલાકની ઝડપે દોડે છે, તો તે 14 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1070 કિમી",
+      "1120 કિમી",
+      "1140 કિમી",
+      "1170 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50042,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 14 દિવસમાં અને B તે જ કામ 17 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/17",
+      "1/31",
+      "1/14",
+      "14/17"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50043,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 18, 21, 24, 27, ?",
+    "options": [
+      "28",
+      "30",
+      "33",
+      "29"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50044,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹160 હોય અને તેના પર 22% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹35.2",
+      "₹45.2",
+      "₹30.200000000000003",
+      "₹55.2"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50045,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 90 કિમી/કલાકની ઝડપે દોડે છે, તો તે 5 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "400 કિમી",
+      "450 કિમી",
+      "470 કિમી",
+      "500 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50046,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 7 દિવસમાં અને B તે જ કામ 12 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/12",
+      "1/19",
+      "1/7",
+      "7/12"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50047,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 20, 23, 26, 29, ?",
+    "options": [
+      "30",
+      "32",
+      "35",
+      "31"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50048,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹150 હોય અને તેના પર 20% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹30",
+      "₹40",
+      "₹25",
+      "₹50"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50049,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 50 કિમી/કલાકની ઝડપે દોડે છે, તો તે 12 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "550 કિમી",
+      "600 કિમી",
+      "620 કિમી",
+      "650 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50050,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 13 દિવસમાં અને B તે જ કામ 18 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/18",
+      "1/31",
+      "1/13",
+      "13/18"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50051,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 13, 16, 19, 22, ?",
+    "options": [
+      "23",
+      "25",
+      "28",
+      "24"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50052,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹490 હોય અને તેના પર 40% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹196",
+      "₹206",
+      "₹191",
+      "₹216"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50053,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 90 કિમી/કલાકની ઝડપે દોડે છે, તો તે 8 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "670 કિમી",
+      "720 કિમી",
+      "740 કિમી",
+      "770 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50054,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 11 દિવસમાં અને B તે જ કામ 14 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/14",
+      "1/25",
+      "1/11",
+      "11/14"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50055,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 7, 10, 13, 16, ?",
+    "options": [
+      "17",
+      "19",
+      "22",
+      "18"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50056,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹470 હોય અને તેના પર 53% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹249.1",
+      "₹259.1",
+      "₹244.1",
+      "₹269.1"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50057,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 110 કિમી/કલાકની ઝડપે દોડે છે, તો તે 8 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "830 કિમી",
+      "880 કિમી",
+      "900 કિમી",
+      "930 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50058,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 13 દિવસમાં અને B તે જ કામ 18 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/18",
+      "1/31",
+      "1/13",
+      "13/18"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50059,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 9, 12, 15, 18, ?",
+    "options": [
+      "19",
+      "21",
+      "24",
+      "20"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50060,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹420 હોય અને તેના પર 22% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹92.4",
+      "₹102.4",
+      "₹87.4",
+      "₹112.4"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50061,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 110 કિમી/કલાકની ઝડપે દોડે છે, તો તે 11 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1160 કિમી",
+      "1210 કિમી",
+      "1230 કિમી",
+      "1260 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50062,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 15 દિવસમાં અને B તે જ કામ 19 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/19",
+      "1/34",
+      "1/15",
+      "15/19"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50063,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 10, 13, 16, 19, ?",
+    "options": [
+      "20",
+      "22",
+      "25",
+      "21"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50064,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹580 હોય અને તેના પર 32% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹185.6",
+      "₹195.6",
+      "₹180.6",
+      "₹205.6"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50065,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 50 કિમી/કલાકની ઝડપે દોડે છે, તો તે 13 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "600 કિમી",
+      "650 કિમી",
+      "670 કિમી",
+      "700 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50066,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 9 દિવસમાં અને B તે જ કામ 11 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/11",
+      "1/20",
+      "1/9",
+      "9/11"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50067,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 13, 16, 19, 22, ?",
+    "options": [
+      "23",
+      "25",
+      "28",
+      "24"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50068,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹410 હોય અને તેના પર 42% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹172.2",
+      "₹182.2",
+      "₹167.2",
+      "₹192.2"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50069,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 120 કિમી/કલાકની ઝડપે દોડે છે, તો તે 7 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "790 કિમી",
+      "840 કિમી",
+      "860 કિમી",
+      "890 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50070,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 23 દિવસમાં અને B તે જ કામ 27 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/27",
+      "1/50",
+      "1/23",
+      "23/27"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50071,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 18, 21, 24, 27, ?",
+    "options": [
+      "28",
+      "30",
+      "33",
+      "29"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50072,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹100 હોય અને તેના પર 54% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹54",
+      "₹64",
+      "₹49",
+      "₹74"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50073,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 70 કિમી/કલાકની ઝડપે દોડે છે, તો તે 7 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "440 કિમી",
+      "490 કિમી",
+      "510 કિમી",
+      "540 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50074,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 7 દિવસમાં અને B તે જ કામ 10 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/10",
+      "1/17",
+      "1/7",
+      "7/10"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50075,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 3, 6, 9, 12, ?",
+    "options": [
+      "13",
+      "15",
+      "18",
+      "14"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50076,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹180 હોય અને તેના પર 29% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹52.2",
+      "₹62.2",
+      "₹47.2",
+      "₹72.2"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50077,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 120 કિમી/કલાકની ઝડપે દોડે છે, તો તે 8 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "910 કિમી",
+      "960 કિમી",
+      "980 કિમી",
+      "1010 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50078,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 24 દિવસમાં અને B તે જ કામ 26 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/26",
+      "1/50",
+      "1/24",
+      "24/26"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50079,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 16, 19, 22, 25, ?",
+    "options": [
+      "26",
+      "28",
+      "31",
+      "27"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50080,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹420 હોય અને તેના પર 11% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹46.2",
+      "₹56.2",
+      "₹41.2",
+      "₹66.2"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50081,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 100 કિમી/કલાકની ઝડપે દોડે છે, તો તે 7 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "650 કિમી",
+      "700 કિમી",
+      "720 કિમી",
+      "750 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50082,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 18 દિવસમાં અને B તે જ કામ 20 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/20",
+      "1/38",
+      "1/18",
+      "18/20"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50083,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 10, 13, 16, 19, ?",
+    "options": [
+      "20",
+      "22",
+      "25",
+      "21"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50084,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹420 હોય અને તેના પર 55% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹231",
+      "₹241",
+      "₹226",
+      "₹251"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50085,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 50 કિમી/કલાકની ઝડપે દોડે છે, તો તે 10 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "450 કિમી",
+      "500 કિમી",
+      "520 કિમી",
+      "550 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50086,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 24 દિવસમાં અને B તે જ કામ 27 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/27",
+      "1/51",
+      "1/24",
+      "24/27"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50087,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 3, 6, 9, 12, ?",
+    "options": [
+      "13",
+      "15",
+      "18",
+      "14"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50088,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹160 હોય અને તેના પર 43% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹68.8",
+      "₹78.8",
+      "₹63.8",
+      "₹88.8"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50089,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 120 કિમી/કલાકની ઝડપે દોડે છે, તો તે 9 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1030 કિમી",
+      "1080 કિમી",
+      "1100 કિમી",
+      "1130 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50090,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 24 દિવસમાં અને B તે જ કામ 30 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/30",
+      "1/54",
+      "1/24",
+      "24/30"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50091,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 17, 20, 23, 26, ?",
+    "options": [
+      "27",
+      "29",
+      "32",
+      "28"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50092,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹370 હોય અને તેના પર 44% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹162.8",
+      "₹172.8",
+      "₹157.8",
+      "₹182.8"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50093,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 130 કિમી/કલાકની ઝડપે દોડે છે, તો તે 7 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "860 કિમી",
+      "910 કિમી",
+      "930 કિમી",
+      "960 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50094,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 8 દિવસમાં અને B તે જ કામ 14 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/14",
+      "1/22",
+      "1/8",
+      "8/14"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50095,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 14, 17, 20, 23, ?",
+    "options": [
+      "24",
+      "26",
+      "29",
+      "25"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50096,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹150 હોય અને તેના પર 44% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹66",
+      "₹76",
+      "₹61",
+      "₹86"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50097,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 60 કિમી/કલાકની ઝડપે દોડે છે, તો તે 13 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "730 કિમી",
+      "780 કિમી",
+      "800 કિમી",
+      "830 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50098,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 17 દિવસમાં અને B તે જ કામ 19 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/19",
+      "1/36",
+      "1/17",
+      "17/19"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50099,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 7, 10, 13, 16, ?",
+    "options": [
+      "17",
+      "19",
+      "22",
+      "18"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50100,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹590 હોય અને તેના પર 23% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹135.7",
+      "₹145.7",
+      "₹130.7",
+      "₹155.7"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50101,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 80 કિમી/કલાકની ઝડપે દોડે છે, તો તે 12 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "910 કિમી",
+      "960 કિમી",
+      "980 કિમી",
+      "1010 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50102,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 23 દિવસમાં અને B તે જ કામ 28 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/28",
+      "1/51",
+      "1/23",
+      "23/28"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50103,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 3, 6, 9, 12, ?",
+    "options": [
+      "13",
+      "15",
+      "18",
+      "14"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50104,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹480 હોય અને તેના પર 54% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹259.2",
+      "₹269.2",
+      "₹254.2",
+      "₹279.2"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50105,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 70 કિમી/કલાકની ઝડપે દોડે છે, તો તે 8 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "510 કિમી",
+      "560 કિમી",
+      "580 કિમી",
+      "610 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50106,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 23 દિવસમાં અને B તે જ કામ 25 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/25",
+      "1/48",
+      "1/23",
+      "23/25"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50107,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 21, 24, 27, 30, ?",
+    "options": [
+      "31",
+      "33",
+      "36",
+      "32"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50108,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹310 હોય અને તેના પર 51% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹158.1",
+      "₹168.1",
+      "₹153.1",
+      "₹178.1"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50109,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 120 કિમી/કલાકની ઝડપે દોડે છે, તો તે 9 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1030 કિમી",
+      "1080 કિમી",
+      "1100 કિમી",
+      "1130 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50110,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 11 દિવસમાં અને B તે જ કામ 15 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/15",
+      "1/26",
+      "1/11",
+      "11/15"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50111,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 15, 18, 21, 24, ?",
+    "options": [
+      "25",
+      "27",
+      "30",
+      "26"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50112,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹480 હોય અને તેના પર 50% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹240",
+      "₹250",
+      "₹235",
+      "₹260"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50113,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 90 કિમી/કલાકની ઝડપે દોડે છે, તો તે 5 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "400 કિમી",
+      "450 કિમી",
+      "470 કિમી",
+      "500 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50114,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 15 દિવસમાં અને B તે જ કામ 21 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/21",
+      "1/36",
+      "1/15",
+      "15/21"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50115,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 14, 17, 20, 23, ?",
+    "options": [
+      "24",
+      "26",
+      "29",
+      "25"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50116,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹150 હોય અને તેના પર 55% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹82.5",
+      "₹92.5",
+      "₹77.5",
+      "₹102.5"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50117,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 130 કિમી/કલાકની ઝડપે દોડે છે, તો તે 6 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "730 કિમી",
+      "780 કિમી",
+      "800 કિમી",
+      "830 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50118,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 21 દિવસમાં અને B તે જ કામ 25 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/25",
+      "1/46",
+      "1/21",
+      "21/25"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50119,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 16, 19, 22, 25, ?",
+    "options": [
+      "26",
+      "28",
+      "31",
+      "27"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50120,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹140 હોય અને તેના પર 56% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹78.4",
+      "₹88.4",
+      "₹73.4",
+      "₹98.4"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50121,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 80 કિમી/કલાકની ઝડપે દોડે છે, તો તે 9 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "670 કિમી",
+      "720 કિમી",
+      "740 કિમી",
+      "770 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50122,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 13 દિવસમાં અને B તે જ કામ 18 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/18",
+      "1/31",
+      "1/13",
+      "13/18"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50123,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 14, 17, 20, 23, ?",
+    "options": [
+      "24",
+      "26",
+      "29",
+      "25"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50124,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹230 હોય અને તેના પર 33% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹75.9",
+      "₹85.9",
+      "₹70.9",
+      "₹95.9"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50125,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 110 કિમી/કલાકની ઝડપે દોડે છે, તો તે 11 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1160 કિમી",
+      "1210 કિમી",
+      "1230 કિમી",
+      "1260 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50126,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 16 દિવસમાં અને B તે જ કામ 18 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/18",
+      "1/34",
+      "1/16",
+      "16/18"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50127,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 11, 14, 17, 20, ?",
+    "options": [
+      "21",
+      "23",
+      "26",
+      "22"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50128,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹510 હોય અને તેના પર 23% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹117.3",
+      "₹127.3",
+      "₹112.3",
+      "₹137.3"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50129,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 110 કિમી/કલાકની ઝડપે દોડે છે, તો તે 6 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "610 કિમી",
+      "660 કિમી",
+      "680 કિમી",
+      "710 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50130,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 17 દિવસમાં અને B તે જ કામ 23 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/23",
+      "1/40",
+      "1/17",
+      "17/23"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50131,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 19, 22, 25, 28, ?",
+    "options": [
+      "29",
+      "31",
+      "34",
+      "30"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50132,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹560 હોય અને તેના પર 18% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹100.8",
+      "₹110.8",
+      "₹95.8",
+      "₹120.8"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50133,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 90 કિમી/કલાકની ઝડપે દોડે છે, તો તે 5 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "400 કિમી",
+      "450 કિમી",
+      "470 કિમી",
+      "500 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50134,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 19 દિવસમાં અને B તે જ કામ 23 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/23",
+      "1/42",
+      "1/19",
+      "19/23"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50135,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 18, 21, 24, 27, ?",
+    "options": [
+      "28",
+      "30",
+      "33",
+      "29"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50136,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹240 હોય અને તેના પર 29% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹69.6",
+      "₹79.6",
+      "₹64.6",
+      "₹89.6"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50137,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 90 કિમી/કલાકની ઝડપે દોડે છે, તો તે 11 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "940 કિમી",
+      "990 કિમી",
+      "1010 કિમી",
+      "1040 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50138,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 18 દિવસમાં અને B તે જ કામ 24 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/24",
+      "1/42",
+      "1/18",
+      "18/24"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50139,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 11, 14, 17, 20, ?",
+    "options": [
+      "21",
+      "23",
+      "26",
+      "22"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50140,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹240 હોય અને તેના પર 51% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹122.4",
+      "₹132.4",
+      "₹117.4",
+      "₹142.4"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50141,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 90 કિમી/કલાકની ઝડપે દોડે છે, તો તે 13 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1120 કિમી",
+      "1170 કિમી",
+      "1190 કિમી",
+      "1220 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50142,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 17 દિવસમાં અને B તે જ કામ 22 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/22",
+      "1/39",
+      "1/17",
+      "17/22"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50143,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 2, 5, 8, 11, ?",
+    "options": [
+      "12",
+      "14",
+      "17",
+      "13"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50144,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹430 હોય અને તેના પર 33% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹141.9",
+      "₹151.9",
+      "₹136.9",
+      "₹161.9"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50145,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 70 કિમી/કલાકની ઝડપે દોડે છે, તો તે 13 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "860 કિમી",
+      "910 કિમી",
+      "930 કિમી",
+      "960 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50146,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 18 દિવસમાં અને B તે જ કામ 22 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/22",
+      "1/40",
+      "1/18",
+      "18/22"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50147,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 18, 21, 24, 27, ?",
+    "options": [
+      "28",
+      "30",
+      "33",
+      "29"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50148,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹160 હોય અને તેના પર 43% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹68.8",
+      "₹78.8",
+      "₹63.8",
+      "₹88.8"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50149,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 140 કિમી/કલાકની ઝડપે દોડે છે, તો તે 7 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "930 કિમી",
+      "980 કિમી",
+      "1000 કિમી",
+      "1030 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50150,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 22 દિવસમાં અને B તે જ કામ 26 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/26",
+      "1/48",
+      "1/22",
+      "22/26"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50151,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 10, 13, 16, 19, ?",
+    "options": [
+      "20",
+      "22",
+      "25",
+      "21"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50152,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹400 હોય અને તેના પર 13% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹52",
+      "₹62",
+      "₹47",
+      "₹72"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50153,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 70 કિમી/કલાકની ઝડપે દોડે છે, તો તે 9 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "580 કિમી",
+      "630 કિમી",
+      "650 કિમી",
+      "680 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50154,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 7 દિવસમાં અને B તે જ કામ 10 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/10",
+      "1/17",
+      "1/7",
+      "7/10"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50155,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 11, 14, 17, 20, ?",
+    "options": [
+      "21",
+      "23",
+      "26",
+      "22"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50156,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹260 હોય અને તેના પર 52% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹135.2",
+      "₹145.2",
+      "₹130.2",
+      "₹155.2"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50157,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 90 કિમી/કલાકની ઝડપે દોડે છે, તો તે 9 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "760 કિમી",
+      "810 કિમી",
+      "830 કિમી",
+      "860 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50158,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 6 દિવસમાં અને B તે જ કામ 8 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/8",
+      "1/14",
+      "1/6",
+      "6/8"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50159,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 7, 10, 13, 16, ?",
+    "options": [
+      "17",
+      "19",
+      "22",
+      "18"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50160,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹300 હોય અને તેના પર 37% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹111",
+      "₹121",
+      "₹106",
+      "₹131"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50161,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 90 કિમી/કલાકની ઝડપે દોડે છે, તો તે 6 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "490 કિમી",
+      "540 કિમી",
+      "560 કિમી",
+      "590 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50162,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 14 દિવસમાં અને B તે જ કામ 16 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/16",
+      "1/30",
+      "1/14",
+      "14/16"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50163,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 15, 18, 21, 24, ?",
+    "options": [
+      "25",
+      "27",
+      "30",
+      "26"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50164,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹510 હોય અને તેના પર 15% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹76.5",
+      "₹86.5",
+      "₹71.5",
+      "₹96.5"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50165,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 90 કિમી/કલાકની ઝડપે દોડે છે, તો તે 12 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1030 કિમી",
+      "1080 કિમી",
+      "1100 કિમી",
+      "1130 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50166,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 10 દિવસમાં અને B તે જ કામ 14 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/14",
+      "1/24",
+      "1/10",
+      "10/14"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50167,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 17, 20, 23, 26, ?",
+    "options": [
+      "27",
+      "29",
+      "32",
+      "28"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50168,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹280 હોય અને તેના પર 31% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹86.8",
+      "₹96.8",
+      "₹81.8",
+      "₹106.8"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50169,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 110 કિમી/કલાકની ઝડપે દોડે છે, તો તે 12 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1270 કિમી",
+      "1320 કિમી",
+      "1340 કિમી",
+      "1370 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50170,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 23 દિવસમાં અને B તે જ કામ 25 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/25",
+      "1/48",
+      "1/23",
+      "23/25"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50171,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 8, 11, 14, 17, ?",
+    "options": [
+      "18",
+      "20",
+      "23",
+      "19"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50172,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹480 હોય અને તેના પર 32% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹153.6",
+      "₹163.6",
+      "₹148.6",
+      "₹173.6"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50173,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 120 કિમી/કલાકની ઝડપે દોડે છે, તો તે 14 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1630 કિમી",
+      "1680 કિમી",
+      "1700 કિમી",
+      "1730 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50174,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 20 દિવસમાં અને B તે જ કામ 25 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/25",
+      "1/45",
+      "1/20",
+      "20/25"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50175,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 13, 16, 19, 22, ?",
+    "options": [
+      "23",
+      "25",
+      "28",
+      "24"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50176,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹160 હોય અને તેના પર 54% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹86.4",
+      "₹96.4",
+      "₹81.4",
+      "₹106.4"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50177,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 130 કિમી/કલાકની ઝડપે દોડે છે, તો તે 11 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1380 કિમી",
+      "1430 કિમી",
+      "1450 કિમી",
+      "1480 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50178,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 24 દિવસમાં અને B તે જ કામ 26 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/26",
+      "1/50",
+      "1/24",
+      "24/26"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50179,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 8, 11, 14, 17, ?",
+    "options": [
+      "18",
+      "20",
+      "23",
+      "19"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50180,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹230 હોય અને તેના પર 42% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹96.6",
+      "₹106.6",
+      "₹91.6",
+      "₹116.6"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50181,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 110 કિમી/કલાકની ઝડપે દોડે છે, તો તે 5 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "500 કિમી",
+      "550 કિમી",
+      "570 કિમી",
+      "600 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50182,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 6 દિવસમાં અને B તે જ કામ 10 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/10",
+      "1/16",
+      "1/6",
+      "6/10"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50183,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 13, 16, 19, 22, ?",
+    "options": [
+      "23",
+      "25",
+      "28",
+      "24"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50184,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹300 હોય અને તેના પર 15% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹45",
+      "₹55",
+      "₹40",
+      "₹65"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50185,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 60 કિમી/કલાકની ઝડપે દોડે છે, તો તે 5 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "250 કિમી",
+      "300 કિમી",
+      "320 કિમી",
+      "350 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50186,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 10 દિવસમાં અને B તે જ કામ 13 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/13",
+      "1/23",
+      "1/10",
+      "10/13"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50187,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 16, 19, 22, 25, ?",
+    "options": [
+      "26",
+      "28",
+      "31",
+      "27"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50188,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹190 હોય અને તેના પર 37% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹70.3",
+      "₹80.3",
+      "₹65.3",
+      "₹90.3"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50189,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 140 કિમી/કલાકની ઝડપે દોડે છે, તો તે 12 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1630 કિમી",
+      "1680 કિમી",
+      "1700 કિમી",
+      "1730 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50190,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 7 દિવસમાં અને B તે જ કામ 11 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/11",
+      "1/18",
+      "1/7",
+      "7/11"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50191,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 4, 7, 10, 13, ?",
+    "options": [
+      "14",
+      "16",
+      "19",
+      "15"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50192,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹380 હોય અને તેના પર 28% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹106.4",
+      "₹116.4",
+      "₹101.4",
+      "₹126.4"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50193,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 130 કિમી/કલાકની ઝડપે દોડે છે, તો તે 8 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "990 કિમી",
+      "1040 કિમી",
+      "1060 કિમી",
+      "1090 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50194,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 13 દિવસમાં અને B તે જ કામ 19 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/19",
+      "1/32",
+      "1/13",
+      "13/19"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50195,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 6, 9, 12, 15, ?",
+    "options": [
+      "16",
+      "18",
+      "21",
+      "17"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50196,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹110 હોય અને તેના પર 44% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹48.4",
+      "₹58.4",
+      "₹43.4",
+      "₹68.4"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50197,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 90 કિમી/કલાકની ઝડપે દોડે છે, તો તે 6 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "490 કિમી",
+      "540 કિમી",
+      "560 કિમી",
+      "590 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50198,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 20 દિવસમાં અને B તે જ કામ 24 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/24",
+      "1/44",
+      "1/20",
+      "20/24"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50199,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 19, 22, 25, 28, ?",
+    "options": [
+      "29",
+      "31",
+      "34",
+      "30"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50200,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹520 હોય અને તેના પર 33% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹171.6",
+      "₹181.6",
+      "₹166.6",
+      "₹191.6"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50201,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 60 કિમી/કલાકની ઝડપે દોડે છે, તો તે 10 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "550 કિમી",
+      "600 કિમી",
+      "620 કિમી",
+      "650 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50202,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 19 દિવસમાં અને B તે જ કામ 22 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/22",
+      "1/41",
+      "1/19",
+      "19/22"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50203,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 19, 22, 25, 28, ?",
+    "options": [
+      "29",
+      "31",
+      "34",
+      "30"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50204,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹410 હોય અને તેના પર 57% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹233.7",
+      "₹243.7",
+      "₹228.7",
+      "₹253.7"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50205,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 80 કિમી/કલાકની ઝડપે દોડે છે, તો તે 7 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "510 કિમી",
+      "560 કિમી",
+      "580 કિમી",
+      "610 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50206,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 5 દિવસમાં અને B તે જ કામ 7 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/7",
+      "1/12",
+      "1/5",
+      "5/7"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50207,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 3, 6, 9, 12, ?",
+    "options": [
+      "13",
+      "15",
+      "18",
+      "14"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50208,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹320 હોય અને તેના પર 58% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹185.6",
+      "₹195.6",
+      "₹180.6",
+      "₹205.6"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50209,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 130 કિમી/કલાકની ઝડપે દોડે છે, તો તે 8 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "990 કિમી",
+      "1040 કિમી",
+      "1060 કિમી",
+      "1090 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50210,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 9 દિવસમાં અને B તે જ કામ 15 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/15",
+      "1/24",
+      "1/9",
+      "9/15"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50211,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 8, 11, 14, 17, ?",
+    "options": [
+      "18",
+      "20",
+      "23",
+      "19"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50212,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹500 હોય અને તેના પર 31% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹155",
+      "₹165",
+      "₹150",
+      "₹175"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50213,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 130 કિમી/કલાકની ઝડપે દોડે છે, તો તે 9 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1120 કિમી",
+      "1170 કિમી",
+      "1190 કિમી",
+      "1220 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50214,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 17 દિવસમાં અને B તે જ કામ 20 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/20",
+      "1/37",
+      "1/17",
+      "17/20"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50215,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 19, 22, 25, 28, ?",
+    "options": [
+      "29",
+      "31",
+      "34",
+      "30"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50216,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹350 હોય અને તેના પર 11% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹38.5",
+      "₹48.5",
+      "₹33.5",
+      "₹58.5"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50217,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 140 કિમી/કલાકની ઝડપે દોડે છે, તો તે 8 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1070 કિમી",
+      "1120 કિમી",
+      "1140 કિમી",
+      "1170 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50218,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 24 દિવસમાં અને B તે જ કામ 29 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/29",
+      "1/53",
+      "1/24",
+      "24/29"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50219,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 10, 13, 16, 19, ?",
+    "options": [
+      "20",
+      "22",
+      "25",
+      "21"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50220,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹470 હોય અને તેના પર 15% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹70.5",
+      "₹80.5",
+      "₹65.5",
+      "₹90.5"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50221,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 110 કિમી/કલાકની ઝડપે દોડે છે, તો તે 9 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "940 કિમી",
+      "990 કિમી",
+      "1010 કિમી",
+      "1040 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50222,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 20 દિવસમાં અને B તે જ કામ 23 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/23",
+      "1/43",
+      "1/20",
+      "20/23"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50223,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 13, 16, 19, 22, ?",
+    "options": [
+      "23",
+      "25",
+      "28",
+      "24"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50224,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹520 હોય અને તેના પર 38% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹197.6",
+      "₹207.6",
+      "₹192.6",
+      "₹217.6"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50225,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 70 કિમી/કલાકની ઝડપે દોડે છે, તો તે 14 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "930 કિમી",
+      "980 કિમી",
+      "1000 કિમી",
+      "1030 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50226,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 13 દિવસમાં અને B તે જ કામ 15 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/15",
+      "1/28",
+      "1/13",
+      "13/15"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50227,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 21, 24, 27, 30, ?",
+    "options": [
+      "31",
+      "33",
+      "36",
+      "32"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50228,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹360 હોય અને તેના પર 16% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹57.6",
+      "₹67.6",
+      "₹52.6",
+      "₹77.6"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50229,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 50 કિમી/કલાકની ઝડપે દોડે છે, તો તે 6 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "250 કિમી",
+      "300 કિમી",
+      "320 કિમી",
+      "350 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50230,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 11 દિવસમાં અને B તે જ કામ 15 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/15",
+      "1/26",
+      "1/11",
+      "11/15"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50231,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 18, 21, 24, 27, ?",
+    "options": [
+      "28",
+      "30",
+      "33",
+      "29"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50232,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹170 હોય અને તેના પર 19% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹32.3",
+      "₹42.3",
+      "₹27.299999999999997",
+      "₹52.3"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50233,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 50 કિમી/કલાકની ઝડપે દોડે છે, તો તે 5 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "200 કિમી",
+      "250 કિમી",
+      "270 કિમી",
+      "300 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50234,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 7 દિવસમાં અને B તે જ કામ 13 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/13",
+      "1/20",
+      "1/7",
+      "7/13"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50235,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 6, 9, 12, 15, ?",
+    "options": [
+      "16",
+      "18",
+      "21",
+      "17"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50236,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹490 હોય અને તેના પર 12% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹58.8",
+      "₹68.8",
+      "₹53.8",
+      "₹78.8"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50237,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 80 કિમી/કલાકની ઝડપે દોડે છે, તો તે 8 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "590 કિમી",
+      "640 કિમી",
+      "660 કિમી",
+      "690 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50238,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 16 દિવસમાં અને B તે જ કામ 20 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/20",
+      "1/36",
+      "1/16",
+      "16/20"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50239,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 2, 5, 8, 11, ?",
+    "options": [
+      "12",
+      "14",
+      "17",
+      "13"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50240,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹100 હોય અને તેના પર 40% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹40",
+      "₹50",
+      "₹35",
+      "₹60"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50241,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 90 કિમી/કલાકની ઝડપે દોડે છે, તો તે 7 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "580 કિમી",
+      "630 કિમી",
+      "650 કિમી",
+      "680 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50242,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 21 દિવસમાં અને B તે જ કામ 23 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/23",
+      "1/44",
+      "1/21",
+      "21/23"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50243,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 18, 21, 24, 27, ?",
+    "options": [
+      "28",
+      "30",
+      "33",
+      "29"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50244,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹190 હોય અને તેના પર 45% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹85.5",
+      "₹95.5",
+      "₹80.5",
+      "₹105.5"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50245,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 80 કિમી/કલાકની ઝડપે દોડે છે, તો તે 6 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "430 કિમી",
+      "480 કિમી",
+      "500 કિમી",
+      "530 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50246,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 19 દિવસમાં અને B તે જ કામ 22 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/22",
+      "1/41",
+      "1/19",
+      "19/22"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50247,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 3, 6, 9, 12, ?",
+    "options": [
+      "13",
+      "15",
+      "18",
+      "14"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50248,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹240 હોય અને તેના પર 55% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹132",
+      "₹142",
+      "₹127",
+      "₹152"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50249,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 130 કિમી/કલાકની ઝડપે દોડે છે, તો તે 14 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1770 કિમી",
+      "1820 કિમી",
+      "1840 કિમી",
+      "1870 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50250,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 13 દિવસમાં અને B તે જ કામ 18 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/18",
+      "1/31",
+      "1/13",
+      "13/18"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50251,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 11, 14, 17, 20, ?",
+    "options": [
+      "21",
+      "23",
+      "26",
+      "22"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50252,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹150 હોય અને તેના પર 44% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹66",
+      "₹76",
+      "₹61",
+      "₹86"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50253,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 70 કિમી/કલાકની ઝડપે દોડે છે, તો તે 9 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "580 કિમી",
+      "630 કિમી",
+      "650 કિમી",
+      "680 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50254,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 10 દિવસમાં અને B તે જ કામ 16 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/16",
+      "1/26",
+      "1/10",
+      "10/16"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50255,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 15, 18, 21, 24, ?",
+    "options": [
+      "25",
+      "27",
+      "30",
+      "26"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50256,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹540 હોય અને તેના પર 19% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹102.6",
+      "₹112.6",
+      "₹97.6",
+      "₹122.6"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50257,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 80 કિમી/કલાકની ઝડપે દોડે છે, તો તે 10 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "750 કિમી",
+      "800 કિમી",
+      "820 કિમી",
+      "850 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50258,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 13 દિવસમાં અને B તે જ કામ 16 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/16",
+      "1/29",
+      "1/13",
+      "13/16"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50259,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 5, 8, 11, 14, ?",
+    "options": [
+      "15",
+      "17",
+      "20",
+      "16"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50260,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹330 હોય અને તેના પર 50% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹165",
+      "₹175",
+      "₹160",
+      "₹185"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50261,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 60 કિમી/કલાકની ઝડપે દોડે છે, તો તે 9 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "490 કિમી",
+      "540 કિમી",
+      "560 કિમી",
+      "590 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50262,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 16 દિવસમાં અને B તે જ કામ 18 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/18",
+      "1/34",
+      "1/16",
+      "16/18"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50263,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 19, 22, 25, 28, ?",
+    "options": [
+      "29",
+      "31",
+      "34",
+      "30"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50264,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹460 હોય અને તેના પર 26% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹119.6",
+      "₹129.6",
+      "₹114.6",
+      "₹139.6"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50265,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 70 કિમી/કલાકની ઝડપે દોડે છે, તો તે 13 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "860 કિમી",
+      "910 કિમી",
+      "930 કિમી",
+      "960 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50266,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 20 દિવસમાં અને B તે જ કામ 24 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/24",
+      "1/44",
+      "1/20",
+      "20/24"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50267,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 18, 21, 24, 27, ?",
+    "options": [
+      "28",
+      "30",
+      "33",
+      "29"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50268,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹460 હોય અને તેના પર 55% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹253",
+      "₹263",
+      "₹248",
+      "₹273"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50269,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 140 કિમી/કલાકની ઝડપે દોડે છે, તો તે 14 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1910 કિમી",
+      "1960 કિમી",
+      "1980 કિમી",
+      "2010 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50270,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 5 દિવસમાં અને B તે જ કામ 11 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/11",
+      "1/16",
+      "1/5",
+      "5/11"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50271,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 6, 9, 12, 15, ?",
+    "options": [
+      "16",
+      "18",
+      "21",
+      "17"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50272,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹490 હોય અને તેના પર 37% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹181.3",
+      "₹191.3",
+      "₹176.3",
+      "₹201.3"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50273,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 120 કિમી/કલાકની ઝડપે દોડે છે, તો તે 13 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1510 કિમી",
+      "1560 કિમી",
+      "1580 કિમી",
+      "1610 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50274,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 11 દિવસમાં અને B તે જ કામ 16 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/16",
+      "1/27",
+      "1/11",
+      "11/16"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50275,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 11, 14, 17, 20, ?",
+    "options": [
+      "21",
+      "23",
+      "26",
+      "22"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50276,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹170 હોય અને તેના પર 38% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹64.6",
+      "₹74.6",
+      "₹59.599999999999994",
+      "₹84.6"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50277,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 60 કિમી/કલાકની ઝડપે દોડે છે, તો તે 5 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "250 કિમી",
+      "300 કિમી",
+      "320 કિમી",
+      "350 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50278,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 24 દિવસમાં અને B તે જ કામ 29 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/29",
+      "1/53",
+      "1/24",
+      "24/29"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50279,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 15, 18, 21, 24, ?",
+    "options": [
+      "25",
+      "27",
+      "30",
+      "26"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50280,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹290 હોય અને તેના પર 30% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹87",
+      "₹97",
+      "₹82",
+      "₹107"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50281,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 70 કિમી/કલાકની ઝડપે દોડે છે, તો તે 9 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "580 કિમી",
+      "630 કિમી",
+      "650 કિમી",
+      "680 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50282,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 18 દિવસમાં અને B તે જ કામ 21 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/21",
+      "1/39",
+      "1/18",
+      "18/21"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50283,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 6, 9, 12, 15, ?",
+    "options": [
+      "16",
+      "18",
+      "21",
+      "17"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50284,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹250 હોય અને તેના પર 31% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹77.5",
+      "₹87.5",
+      "₹72.5",
+      "₹97.5"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50285,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 70 કિમી/કલાકની ઝડપે દોડે છે, તો તે 7 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "440 કિમી",
+      "490 કિમી",
+      "510 કિમી",
+      "540 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50286,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 18 દિવસમાં અને B તે જ કામ 24 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/24",
+      "1/42",
+      "1/18",
+      "18/24"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50287,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 15, 18, 21, 24, ?",
+    "options": [
+      "25",
+      "27",
+      "30",
+      "26"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50288,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹210 હોય અને તેના પર 30% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹63",
+      "₹73",
+      "₹58",
+      "₹83"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50289,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 100 કિમી/કલાકની ઝડપે દોડે છે, તો તે 8 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "750 કિમી",
+      "800 કિમી",
+      "820 કિમી",
+      "850 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50290,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 16 દિવસમાં અને B તે જ કામ 18 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/18",
+      "1/34",
+      "1/16",
+      "16/18"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50291,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 2, 5, 8, 11, ?",
+    "options": [
+      "12",
+      "14",
+      "17",
+      "13"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50292,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹300 હોય અને તેના પર 13% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹39",
+      "₹49",
+      "₹34",
+      "₹59"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50293,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 60 કિમી/કલાકની ઝડપે દોડે છે, તો તે 8 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "430 કિમી",
+      "480 કિમી",
+      "500 કિમી",
+      "530 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50294,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 11 દિવસમાં અને B તે જ કામ 16 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/16",
+      "1/27",
+      "1/11",
+      "11/16"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50295,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 3, 6, 9, 12, ?",
+    "options": [
+      "13",
+      "15",
+      "18",
+      "14"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50296,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹430 હોય અને તેના પર 42% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹180.6",
+      "₹190.6",
+      "₹175.6",
+      "₹200.6"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50297,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 60 કિમી/કલાકની ઝડપે દોડે છે, તો તે 9 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "490 કિમી",
+      "540 કિમી",
+      "560 કિમી",
+      "590 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50298,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 10 દિવસમાં અને B તે જ કામ 16 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/16",
+      "1/26",
+      "1/10",
+      "10/16"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50299,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 11, 14, 17, 20, ?",
+    "options": [
+      "21",
+      "23",
+      "26",
+      "22"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50300,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹250 હોય અને તેના પર 20% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹50",
+      "₹60",
+      "₹45",
+      "₹70"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50301,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 80 કિમી/કલાકની ઝડપે દોડે છે, તો તે 5 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "350 કિમી",
+      "400 કિમી",
+      "420 કિમી",
+      "450 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50302,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 18 દિવસમાં અને B તે જ કામ 24 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/24",
+      "1/42",
+      "1/18",
+      "18/24"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50303,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 17, 20, 23, 26, ?",
+    "options": [
+      "27",
+      "29",
+      "32",
+      "28"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50304,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹580 હોય અને તેના પર 35% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹203",
+      "₹213",
+      "₹198",
+      "₹223"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50305,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 100 કિમી/કલાકની ઝડપે દોડે છે, તો તે 12 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1150 કિમી",
+      "1200 કિમી",
+      "1220 કિમી",
+      "1250 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50306,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 17 દિવસમાં અને B તે જ કામ 22 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/22",
+      "1/39",
+      "1/17",
+      "17/22"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50307,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 4, 7, 10, 13, ?",
+    "options": [
+      "14",
+      "16",
+      "19",
+      "15"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50308,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹140 હોય અને તેના પર 50% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹70",
+      "₹80",
+      "₹65",
+      "₹90"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50309,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 120 કિમી/કલાકની ઝડપે દોડે છે, તો તે 5 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "550 કિમી",
+      "600 કિમી",
+      "620 કિમી",
+      "650 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50310,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 8 દિવસમાં અને B તે જ કામ 13 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/13",
+      "1/21",
+      "1/8",
+      "8/13"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50311,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 19, 22, 25, 28, ?",
+    "options": [
+      "29",
+      "31",
+      "34",
+      "30"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50312,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹550 હોય અને તેના પર 51% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹280.5",
+      "₹290.5",
+      "₹275.5",
+      "₹300.5"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50313,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 50 કિમી/કલાકની ઝડપે દોડે છે, તો તે 6 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "250 કિમી",
+      "300 કિમી",
+      "320 કિમી",
+      "350 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50314,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 5 દિવસમાં અને B તે જ કામ 10 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/10",
+      "1/15",
+      "1/5",
+      "5/10"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50315,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 9, 12, 15, 18, ?",
+    "options": [
+      "19",
+      "21",
+      "24",
+      "20"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50316,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹260 હોય અને તેના પર 34% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹88.4",
+      "₹98.4",
+      "₹83.4",
+      "₹108.4"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50317,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 120 કિમી/કલાકની ઝડપે દોડે છે, તો તે 8 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "910 કિમી",
+      "960 કિમી",
+      "980 કિમી",
+      "1010 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50318,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 15 દિવસમાં અને B તે જ કામ 19 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/19",
+      "1/34",
+      "1/15",
+      "15/19"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50319,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 14, 17, 20, 23, ?",
+    "options": [
+      "24",
+      "26",
+      "29",
+      "25"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50320,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹180 હોય અને તેના પર 14% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹25.2",
+      "₹35.2",
+      "₹20.2",
+      "₹45.2"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50321,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 120 કિમી/કલાકની ઝડપે દોડે છે, તો તે 5 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "550 કિમી",
+      "600 કિમી",
+      "620 કિમી",
+      "650 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50322,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 14 દિવસમાં અને B તે જ કામ 18 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/18",
+      "1/32",
+      "1/14",
+      "14/18"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50323,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 7, 10, 13, 16, ?",
+    "options": [
+      "17",
+      "19",
+      "22",
+      "18"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50324,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹340 હોય અને તેના પર 13% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹44.2",
+      "₹54.2",
+      "₹39.2",
+      "₹64.2"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50325,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 120 કિમી/કલાકની ઝડપે દોડે છે, તો તે 12 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1390 કિમી",
+      "1440 કિમી",
+      "1460 કિમી",
+      "1490 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50326,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 5 દિવસમાં અને B તે જ કામ 8 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/8",
+      "1/13",
+      "1/5",
+      "5/8"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50327,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 21, 24, 27, 30, ?",
+    "options": [
+      "31",
+      "33",
+      "36",
+      "32"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50328,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹330 હોય અને તેના પર 31% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹102.3",
+      "₹112.3",
+      "₹97.3",
+      "₹122.3"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50329,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 140 કિમી/કલાકની ઝડપે દોડે છે, તો તે 13 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1770 કિમી",
+      "1820 કિમી",
+      "1840 કિમી",
+      "1870 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50330,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 18 દિવસમાં અને B તે જ કામ 23 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/23",
+      "1/41",
+      "1/18",
+      "18/23"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50331,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 12, 15, 18, 21, ?",
+    "options": [
+      "22",
+      "24",
+      "27",
+      "23"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50332,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹420 હોય અને તેના પર 33% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹138.6",
+      "₹148.6",
+      "₹133.6",
+      "₹158.6"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50333,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 80 કિમી/કલાકની ઝડપે દોડે છે, તો તે 12 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "910 કિમી",
+      "960 કિમી",
+      "980 કિમી",
+      "1010 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50334,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 17 દિવસમાં અને B તે જ કામ 23 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/23",
+      "1/40",
+      "1/17",
+      "17/23"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50335,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 13, 16, 19, 22, ?",
+    "options": [
+      "23",
+      "25",
+      "28",
+      "24"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50336,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹550 હોય અને તેના પર 52% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹286",
+      "₹296",
+      "₹281",
+      "₹306"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50337,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 50 કિમી/કલાકની ઝડપે દોડે છે, તો તે 10 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "450 કિમી",
+      "500 કિમી",
+      "520 કિમી",
+      "550 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50338,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 16 દિવસમાં અને B તે જ કામ 19 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/19",
+      "1/35",
+      "1/16",
+      "16/19"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50339,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 12, 15, 18, 21, ?",
+    "options": [
+      "22",
+      "24",
+      "27",
+      "23"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50340,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹450 હોય અને તેના પર 50% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹225",
+      "₹235",
+      "₹220",
+      "₹245"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50341,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 50 કિમી/કલાકની ઝડપે દોડે છે, તો તે 13 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "600 કિમી",
+      "650 કિમી",
+      "670 કિમી",
+      "700 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50342,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 6 દિવસમાં અને B તે જ કામ 10 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/10",
+      "1/16",
+      "1/6",
+      "6/10"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50343,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 17, 20, 23, 26, ?",
+    "options": [
+      "27",
+      "29",
+      "32",
+      "28"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50344,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹290 હોય અને તેના પર 16% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹46.4",
+      "₹56.4",
+      "₹41.4",
+      "₹66.4"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50345,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 90 કિમી/કલાકની ઝડપે દોડે છે, તો તે 13 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1120 કિમી",
+      "1170 કિમી",
+      "1190 કિમી",
+      "1220 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50346,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 9 દિવસમાં અને B તે જ કામ 11 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/11",
+      "1/20",
+      "1/9",
+      "9/11"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50347,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 18, 21, 24, 27, ?",
+    "options": [
+      "28",
+      "30",
+      "33",
+      "29"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50348,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹350 હોય અને તેના પર 38% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹133",
+      "₹143",
+      "₹128",
+      "₹153"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50349,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 100 કિમી/કલાકની ઝડપે દોડે છે, તો તે 6 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "550 કિમી",
+      "600 કિમી",
+      "620 કિમી",
+      "650 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50350,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 19 દિવસમાં અને B તે જ કામ 25 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/25",
+      "1/44",
+      "1/19",
+      "19/25"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50351,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 13, 16, 19, 22, ?",
+    "options": [
+      "23",
+      "25",
+      "28",
+      "24"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50352,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹290 હોય અને તેના પર 47% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹136.3",
+      "₹146.3",
+      "₹131.3",
+      "₹156.3"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50353,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 70 કિમી/કલાકની ઝડપે દોડે છે, તો તે 8 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "510 કિમી",
+      "560 કિમી",
+      "580 કિમી",
+      "610 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50354,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 8 દિવસમાં અને B તે જ કામ 13 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/13",
+      "1/21",
+      "1/8",
+      "8/13"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50355,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 11, 14, 17, 20, ?",
+    "options": [
+      "21",
+      "23",
+      "26",
+      "22"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50356,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹200 હોય અને તેના પર 47% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹94",
+      "₹104",
+      "₹89",
+      "₹114"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50357,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 80 કિમી/કલાકની ઝડપે દોડે છે, તો તે 7 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "510 કિમી",
+      "560 કિમી",
+      "580 કિમી",
+      "610 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50358,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 7 દિવસમાં અને B તે જ કામ 9 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/9",
+      "1/16",
+      "1/7",
+      "7/9"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50359,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 13, 16, 19, 22, ?",
+    "options": [
+      "23",
+      "25",
+      "28",
+      "24"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50360,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹260 હોય અને તેના પર 21% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹54.6",
+      "₹64.6",
+      "₹49.6",
+      "₹74.6"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50361,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 70 કિમી/કલાકની ઝડપે દોડે છે, તો તે 8 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "510 કિમી",
+      "560 કિમી",
+      "580 કિમી",
+      "610 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50362,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 20 દિવસમાં અને B તે જ કામ 26 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/26",
+      "1/46",
+      "1/20",
+      "20/26"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50363,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 7, 10, 13, 16, ?",
+    "options": [
+      "17",
+      "19",
+      "22",
+      "18"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50364,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹320 હોય અને તેના પર 25% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹80",
+      "₹90",
+      "₹75",
+      "₹100"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50365,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 110 કિમી/કલાકની ઝડપે દોડે છે, તો તે 7 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "720 કિમી",
+      "770 કિમી",
+      "790 કિમી",
+      "820 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50366,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 12 દિવસમાં અને B તે જ કામ 18 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/18",
+      "1/30",
+      "1/12",
+      "12/18"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50367,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 18, 21, 24, 27, ?",
+    "options": [
+      "28",
+      "30",
+      "33",
+      "29"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50368,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹210 હોય અને તેના પર 21% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹44.1",
+      "₹54.1",
+      "₹39.1",
+      "₹64.1"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50369,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 80 કિમી/કલાકની ઝડપે દોડે છે, તો તે 11 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "830 કિમી",
+      "880 કિમી",
+      "900 કિમી",
+      "930 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50370,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 7 દિવસમાં અને B તે જ કામ 10 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/10",
+      "1/17",
+      "1/7",
+      "7/10"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50371,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 4, 7, 10, 13, ?",
+    "options": [
+      "14",
+      "16",
+      "19",
+      "15"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50372,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹150 હોય અને તેના પર 16% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹24",
+      "₹34",
+      "₹19",
+      "₹44"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50373,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 100 કિમી/કલાકની ઝડપે દોડે છે, તો તે 7 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "650 કિમી",
+      "700 કિમી",
+      "720 કિમી",
+      "750 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50374,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 15 દિવસમાં અને B તે જ કામ 19 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/19",
+      "1/34",
+      "1/15",
+      "15/19"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50375,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 20, 23, 26, 29, ?",
+    "options": [
+      "30",
+      "32",
+      "35",
+      "31"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50376,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹550 હોય અને તેના પર 41% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹225.5",
+      "₹235.5",
+      "₹220.5",
+      "₹245.5"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50377,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 60 કિમી/કલાકની ઝડપે દોડે છે, તો તે 9 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "490 કિમી",
+      "540 કિમી",
+      "560 કિમી",
+      "590 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50378,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 18 દિવસમાં અને B તે જ કામ 22 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/22",
+      "1/40",
+      "1/18",
+      "18/22"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50379,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 13, 16, 19, 22, ?",
+    "options": [
+      "23",
+      "25",
+      "28",
+      "24"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50380,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹480 હોય અને તેના પર 18% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹86.4",
+      "₹96.4",
+      "₹81.4",
+      "₹106.4"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50381,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 130 કિમી/કલાકની ઝડપે દોડે છે, તો તે 5 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "600 કિમી",
+      "650 કિમી",
+      "670 કિમી",
+      "700 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50382,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 14 દિવસમાં અને B તે જ કામ 19 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/19",
+      "1/33",
+      "1/14",
+      "14/19"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50383,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 20, 23, 26, 29, ?",
+    "options": [
+      "30",
+      "32",
+      "35",
+      "31"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50384,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹390 હોય અને તેના પર 27% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹105.3",
+      "₹115.3",
+      "₹100.3",
+      "₹125.3"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50385,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 90 કિમી/કલાકની ઝડપે દોડે છે, તો તે 9 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "760 કિમી",
+      "810 કિમી",
+      "830 કિમી",
+      "860 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50386,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 17 દિવસમાં અને B તે જ કામ 19 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/19",
+      "1/36",
+      "1/17",
+      "17/19"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50387,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 11, 14, 17, 20, ?",
+    "options": [
+      "21",
+      "23",
+      "26",
+      "22"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50388,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹290 હોય અને તેના પર 23% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹66.7",
+      "₹76.7",
+      "₹61.7",
+      "₹86.7"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50389,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 130 કિમી/કલાકની ઝડપે દોડે છે, તો તે 5 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "600 કિમી",
+      "650 કિમી",
+      "670 કિમી",
+      "700 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50390,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 21 દિવસમાં અને B તે જ કામ 23 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/23",
+      "1/44",
+      "1/21",
+      "21/23"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50391,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 6, 9, 12, 15, ?",
+    "options": [
+      "16",
+      "18",
+      "21",
+      "17"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50392,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹110 હોય અને તેના પર 26% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹28.6",
+      "₹38.6",
+      "₹23.6",
+      "₹48.6"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50393,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 140 કિમી/કલાકની ઝડપે દોડે છે, તો તે 14 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1910 કિમી",
+      "1960 કિમી",
+      "1980 કિમી",
+      "2010 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50394,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 14 દિવસમાં અને B તે જ કામ 20 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/20",
+      "1/34",
+      "1/14",
+      "14/20"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50395,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 4, 7, 10, 13, ?",
+    "options": [
+      "14",
+      "16",
+      "19",
+      "15"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50396,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹340 હોય અને તેના પર 18% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹61.2",
+      "₹71.2",
+      "₹56.2",
+      "₹81.2"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50397,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 80 કિમી/કલાકની ઝડપે દોડે છે, તો તે 6 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "430 કિમી",
+      "480 કિમી",
+      "500 કિમી",
+      "530 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50398,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 6 દિવસમાં અને B તે જ કામ 9 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/9",
+      "1/15",
+      "1/6",
+      "6/9"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50399,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 16, 19, 22, 25, ?",
+    "options": [
+      "26",
+      "28",
+      "31",
+      "27"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50400,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹430 હોય અને તેના પર 46% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹197.8",
+      "₹207.8",
+      "₹192.8",
+      "₹217.8"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50401,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 80 કિમી/કલાકની ઝડપે દોડે છે, તો તે 12 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "910 કિમી",
+      "960 કિમી",
+      "980 કિમી",
+      "1010 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50402,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 12 દિવસમાં અને B તે જ કામ 15 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/15",
+      "1/27",
+      "1/12",
+      "12/15"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50403,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 8, 11, 14, 17, ?",
+    "options": [
+      "18",
+      "20",
+      "23",
+      "19"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50404,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹370 હોય અને તેના પર 50% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹185",
+      "₹195",
+      "₹180",
+      "₹205"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50405,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 80 કિમી/કલાકની ઝડપે દોડે છે, તો તે 13 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "990 કિમી",
+      "1040 કિમી",
+      "1060 કિમી",
+      "1090 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50406,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 19 દિવસમાં અને B તે જ કામ 23 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/23",
+      "1/42",
+      "1/19",
+      "19/23"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50407,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 9, 12, 15, 18, ?",
+    "options": [
+      "19",
+      "21",
+      "24",
+      "20"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50408,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹380 હોય અને તેના પર 23% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹87.4",
+      "₹97.4",
+      "₹82.4",
+      "₹107.4"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50409,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 60 કિમી/કલાકની ઝડપે દોડે છે, તો તે 14 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "790 કિમી",
+      "840 કિમી",
+      "860 કિમી",
+      "890 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50410,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 20 દિવસમાં અને B તે જ કામ 22 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/22",
+      "1/42",
+      "1/20",
+      "20/22"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50411,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 3, 6, 9, 12, ?",
+    "options": [
+      "13",
+      "15",
+      "18",
+      "14"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50412,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹300 હોય અને તેના પર 58% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹174",
+      "₹184",
+      "₹169",
+      "₹194"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50413,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 90 કિમી/કલાકની ઝડપે દોડે છે, તો તે 6 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "490 કિમી",
+      "540 કિમી",
+      "560 કિમી",
+      "590 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50414,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 16 દિવસમાં અને B તે જ કામ 20 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/20",
+      "1/36",
+      "1/16",
+      "16/20"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50415,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 4, 7, 10, 13, ?",
+    "options": [
+      "14",
+      "16",
+      "19",
+      "15"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50416,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹240 હોય અને તેના પર 35% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹84",
+      "₹94",
+      "₹79",
+      "₹104"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50417,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 110 કિમી/કલાકની ઝડપે દોડે છે, તો તે 14 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1490 કિમી",
+      "1540 કિમી",
+      "1560 કિમી",
+      "1590 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50418,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 23 દિવસમાં અને B તે જ કામ 25 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/25",
+      "1/48",
+      "1/23",
+      "23/25"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50419,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 17, 20, 23, 26, ?",
+    "options": [
+      "27",
+      "29",
+      "32",
+      "28"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50420,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹250 હોય અને તેના પર 45% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹112.5",
+      "₹122.5",
+      "₹107.5",
+      "₹132.5"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50421,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 100 કિમી/કલાકની ઝડપે દોડે છે, તો તે 6 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "550 કિમી",
+      "600 કિમી",
+      "620 કિમી",
+      "650 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50422,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 15 દિવસમાં અને B તે જ કામ 19 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/19",
+      "1/34",
+      "1/15",
+      "15/19"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50423,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 20, 23, 26, 29, ?",
+    "options": [
+      "30",
+      "32",
+      "35",
+      "31"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50424,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹430 હોય અને તેના પર 55% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹236.5",
+      "₹246.5",
+      "₹231.5",
+      "₹256.5"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50425,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 60 કિમી/કલાકની ઝડપે દોડે છે, તો તે 7 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "370 કિમી",
+      "420 કિમી",
+      "440 કિમી",
+      "470 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50426,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 22 દિવસમાં અને B તે જ કામ 25 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/25",
+      "1/47",
+      "1/22",
+      "22/25"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50427,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 15, 18, 21, 24, ?",
+    "options": [
+      "25",
+      "27",
+      "30",
+      "26"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50428,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹440 હોય અને તેના પર 42% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹184.8",
+      "₹194.8",
+      "₹179.8",
+      "₹204.8"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50429,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 60 કિમી/કલાકની ઝડપે દોડે છે, તો તે 5 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "250 કિમી",
+      "300 કિમી",
+      "320 કિમી",
+      "350 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50430,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 16 દિવસમાં અને B તે જ કામ 18 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/18",
+      "1/34",
+      "1/16",
+      "16/18"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50431,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 6, 9, 12, 15, ?",
+    "options": [
+      "16",
+      "18",
+      "21",
+      "17"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50432,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹320 હોય અને તેના પર 20% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹64",
+      "₹74",
+      "₹59",
+      "₹84"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50433,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 70 કિમી/કલાકની ઝડપે દોડે છે, તો તે 5 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "300 કિમી",
+      "350 કિમી",
+      "370 કિમી",
+      "400 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50434,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 5 દિવસમાં અને B તે જ કામ 8 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/8",
+      "1/13",
+      "1/5",
+      "5/8"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50435,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 21, 24, 27, 30, ?",
+    "options": [
+      "31",
+      "33",
+      "36",
+      "32"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50436,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹550 હોય અને તેના પર 39% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹214.5",
+      "₹224.5",
+      "₹209.5",
+      "₹234.5"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50437,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 70 કિમી/કલાકની ઝડપે દોડે છે, તો તે 9 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "580 કિમી",
+      "630 કિમી",
+      "650 કિમી",
+      "680 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50438,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 10 દિવસમાં અને B તે જ કામ 16 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/16",
+      "1/26",
+      "1/10",
+      "10/16"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50439,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 15, 18, 21, 24, ?",
+    "options": [
+      "25",
+      "27",
+      "30",
+      "26"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50440,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹340 હોય અને તેના પર 30% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹102",
+      "₹112",
+      "₹97",
+      "₹122"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50441,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 70 કિમી/કલાકની ઝડપે દોડે છે, તો તે 5 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "300 કિમી",
+      "350 કિમી",
+      "370 કિમી",
+      "400 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50442,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 18 દિવસમાં અને B તે જ કામ 21 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/21",
+      "1/39",
+      "1/18",
+      "18/21"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50443,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 14, 17, 20, 23, ?",
+    "options": [
+      "24",
+      "26",
+      "29",
+      "25"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50444,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹220 હોય અને તેના પર 25% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹55",
+      "₹65",
+      "₹50",
+      "₹75"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50445,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 120 કિમી/કલાકની ઝડપે દોડે છે, તો તે 6 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "670 કિમી",
+      "720 કિમી",
+      "740 કિમી",
+      "770 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50446,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 17 દિવસમાં અને B તે જ કામ 20 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/20",
+      "1/37",
+      "1/17",
+      "17/20"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50447,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 10, 13, 16, 19, ?",
+    "options": [
+      "20",
+      "22",
+      "25",
+      "21"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50448,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹370 હોય અને તેના પર 10% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹37",
+      "₹47",
+      "₹32",
+      "₹57"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50449,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 70 કિમી/કલાકની ઝડપે દોડે છે, તો તે 9 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "580 કિમી",
+      "630 કિમી",
+      "650 કિમી",
+      "680 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50450,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 12 દિવસમાં અને B તે જ કામ 17 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/17",
+      "1/29",
+      "1/12",
+      "12/17"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50451,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 3, 6, 9, 12, ?",
+    "options": [
+      "13",
+      "15",
+      "18",
+      "14"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50452,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹270 હોય અને તેના પર 27% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹72.9",
+      "₹82.9",
+      "₹67.9",
+      "₹92.9"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50453,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 70 કિમી/કલાકની ઝડપે દોડે છે, તો તે 11 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "720 કિમી",
+      "770 કિમી",
+      "790 કિમી",
+      "820 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50454,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 9 દિવસમાં અને B તે જ કામ 13 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/13",
+      "1/22",
+      "1/9",
+      "9/13"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50455,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 13, 16, 19, 22, ?",
+    "options": [
+      "23",
+      "25",
+      "28",
+      "24"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50456,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹390 હોય અને તેના પર 43% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹167.7",
+      "₹177.7",
+      "₹162.7",
+      "₹187.7"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50457,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 90 કિમી/કલાકની ઝડપે દોડે છે, તો તે 9 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "760 કિમી",
+      "810 કિમી",
+      "830 કિમી",
+      "860 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50458,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 18 દિવસમાં અને B તે જ કામ 24 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/24",
+      "1/42",
+      "1/18",
+      "18/24"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50459,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 17, 20, 23, 26, ?",
+    "options": [
+      "27",
+      "29",
+      "32",
+      "28"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50460,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹390 હોય અને તેના પર 21% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹81.9",
+      "₹91.9",
+      "₹76.9",
+      "₹101.9"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50461,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 140 કિમી/કલાકની ઝડપે દોડે છે, તો તે 12 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1630 કિમી",
+      "1680 કિમી",
+      "1700 કિમી",
+      "1730 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50462,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 7 દિવસમાં અને B તે જ કામ 9 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/9",
+      "1/16",
+      "1/7",
+      "7/9"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50463,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 9, 12, 15, 18, ?",
+    "options": [
+      "19",
+      "21",
+      "24",
+      "20"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50464,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹590 હોય અને તેના પર 58% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹342.2",
+      "₹352.2",
+      "₹337.2",
+      "₹362.2"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50465,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 100 કિમી/કલાકની ઝડપે દોડે છે, તો તે 5 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "450 કિમી",
+      "500 કિમી",
+      "520 કિમી",
+      "550 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50466,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 21 દિવસમાં અને B તે જ કામ 26 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/26",
+      "1/47",
+      "1/21",
+      "21/26"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50467,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 8, 11, 14, 17, ?",
+    "options": [
+      "18",
+      "20",
+      "23",
+      "19"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50468,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹100 હોય અને તેના પર 41% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹41",
+      "₹51",
+      "₹36",
+      "₹61"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50469,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 50 કિમી/કલાકની ઝડપે દોડે છે, તો તે 6 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "250 કિમી",
+      "300 કિમી",
+      "320 કિમી",
+      "350 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50470,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 13 દિવસમાં અને B તે જ કામ 17 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/17",
+      "1/30",
+      "1/13",
+      "13/17"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50471,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 19, 22, 25, 28, ?",
+    "options": [
+      "29",
+      "31",
+      "34",
+      "30"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50472,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹580 હોય અને તેના પર 12% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹69.6",
+      "₹79.6",
+      "₹64.6",
+      "₹89.6"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50473,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 110 કિમી/કલાકની ઝડપે દોડે છે, તો તે 6 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "610 કિમી",
+      "660 કિમી",
+      "680 કિમી",
+      "710 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50474,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 23 દિવસમાં અને B તે જ કામ 28 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/28",
+      "1/51",
+      "1/23",
+      "23/28"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50475,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 6, 9, 12, 15, ?",
+    "options": [
+      "16",
+      "18",
+      "21",
+      "17"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50476,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹260 હોય અને તેના પર 44% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹114.4",
+      "₹124.4",
+      "₹109.4",
+      "₹134.4"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50477,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 70 કિમી/કલાકની ઝડપે દોડે છે, તો તે 5 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "300 કિમી",
+      "350 કિમી",
+      "370 કિમી",
+      "400 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50478,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 5 દિવસમાં અને B તે જ કામ 8 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/8",
+      "1/13",
+      "1/5",
+      "5/8"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50479,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 11, 14, 17, 20, ?",
+    "options": [
+      "21",
+      "23",
+      "26",
+      "22"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50480,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹400 હોય અને તેના પર 43% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹172",
+      "₹182",
+      "₹167",
+      "₹192"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50481,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 100 કિમી/કલાકની ઝડપે દોડે છે, તો તે 14 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1350 કિમી",
+      "1400 કિમી",
+      "1420 કિમી",
+      "1450 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50482,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 13 દિવસમાં અને B તે જ કામ 17 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/17",
+      "1/30",
+      "1/13",
+      "13/17"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50483,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 2, 5, 8, 11, ?",
+    "options": [
+      "12",
+      "14",
+      "17",
+      "13"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50484,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹490 હોય અને તેના પર 25% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹122.5",
+      "₹132.5",
+      "₹117.5",
+      "₹142.5"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50485,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 130 કિમી/કલાકની ઝડપે દોડે છે, તો તે 5 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "600 કિમી",
+      "650 કિમી",
+      "670 કિમી",
+      "700 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50486,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 15 દિવસમાં અને B તે જ કામ 18 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/18",
+      "1/33",
+      "1/15",
+      "15/18"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50487,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 13, 16, 19, 22, ?",
+    "options": [
+      "23",
+      "25",
+      "28",
+      "24"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50488,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹580 હોય અને તેના પર 20% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹116",
+      "₹126",
+      "₹111",
+      "₹136"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50489,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 140 કિમી/કલાકની ઝડપે દોડે છે, તો તે 5 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "650 કિમી",
+      "700 કિમી",
+      "720 કિમી",
+      "750 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50490,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 18 દિવસમાં અને B તે જ કામ 22 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/22",
+      "1/40",
+      "1/18",
+      "18/22"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50491,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 7, 10, 13, 16, ?",
+    "options": [
+      "17",
+      "19",
+      "22",
+      "18"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50492,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹250 હોય અને તેના પર 36% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹90",
+      "₹100",
+      "₹85",
+      "₹110"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50493,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 120 કિમી/કલાકની ઝડપે દોડે છે, તો તે 13 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1510 કિમી",
+      "1560 કિમી",
+      "1580 કિમી",
+      "1610 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50494,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 7 દિવસમાં અને B તે જ કામ 9 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/9",
+      "1/16",
+      "1/7",
+      "7/9"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50495,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 5, 8, 11, 14, ?",
+    "options": [
+      "15",
+      "17",
+      "20",
+      "16"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50496,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹320 હોય અને તેના પર 51% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹163.2",
+      "₹173.2",
+      "₹158.2",
+      "₹183.2"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50497,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "એક ટ્રેન 140 કિમી/કલાકની ઝડપે દોડે છે, તો તે 8 કલાકમાં કેટલું અંતર કાપશે?",
+    "options": [
+      "1070 કિમી",
+      "1120 કિમી",
+      "1140 કિમી",
+      "1170 કિમી"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50498,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો A કોઈ કામ 9 દિવસમાં અને B તે જ કામ 12 દિવસમાં પૂરું કરે, તો A ને 1 દિવસનું કામ કેટલું થાય?",
+    "options": [
+      "1/12",
+      "1/21",
+      "1/9",
+      "9/12"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 50499,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "શ્રેણી પૂર્ણ કરો: 3, 6, 9, 12, ?",
+    "options": [
+      "13",
+      "15",
+      "18",
+      "14"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50500,
+    "category": "maths_reasoning",
+    "subject": "Maths & Reasoning",
+    "question": "જો શર્ટની કિંમત ₹310 હોય અને તેના પર 39% ડિસ્કાઉન્ટ હોય, તો કેટલું ડિસ્કાઉન્ટ મળે?",
+    "options": [
+      "₹120.9",
+      "₹130.9",
+      "₹115.9",
+      "₹140.9"
+    ],
+    "answer": 0
   }
 ]
