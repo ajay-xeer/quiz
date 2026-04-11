@@ -2,14 +2,14 @@ import { useState } from 'react';
 import Home from './components/Home';
 import Quiz from './components/Quiz';
 import Result from './components/Result';
-import mathsReasoningData from './data/maths_reasoning.json';
-import bandharanData from './data/bandharan.json';
-import historyData from './data/history.json';
-import geographyData from './data/geography.json';
-import scienceData from './data/science.json';
-import vyakaranData from './data/vyakaran.json';
-import environmentData from './data/environment.json';
-import economicsData from './data/economics.json';
+import mathsReasoningData from './data/maths_reasoning.js';
+import bandharanData from './data/bandharan.js';
+import historyData from './data/history.js';
+import geographyData from './data/geography.js';
+import scienceData from './data/science.js';
+import vyakaranData from './data/vyakaran.js';
+import environmentData from './data/environment.js';
+import economicsData from './data/economics.js';
 import { generateQuestionsByAI } from './aiService';
 
 const subjectDataMap = {
@@ -45,20 +45,25 @@ function App() {
 
     const filteredQuestions = subjectDataMap[subject] || [];
     let selected = [];
-    const offlineAsked = JSON.parse(localStorage.getItem('offlineAsked') || '[]');
-    let availableQuestions = filteredQuestions.filter(q => !offlineAsked.includes(q.id));
+    let currentOfflineAsked = JSON.parse(localStorage.getItem('offlineAsked') || '[]');
+    let availableQuestions = filteredQuestions.filter(q => !currentOfflineAsked.includes(q.id));
 
-    // If we run out of new unseen questions, SILENTLY reset their history to keep the game running infinitely!
     if (availableQuestions.length < qCount) {
-      availableQuestions = [...filteredQuestions]; // Reset pool
-      localStorage.setItem('offlineAsked', JSON.stringify([])); // Clear memory
+      // Clear memory but pick exactly the leftovers plus some new items from reset pool
+      const leftOvers = [...availableQuestions];
+      const needMore = qCount - leftOvers.length;
+      
+      const refreshedPool = filteredQuestions.filter(q => !leftOvers.find(l => l.id === q.id));
+      const extra = [...refreshedPool].sort(() => 0.5 - Math.random()).slice(0, needMore);
+      
+      selected = [...leftOvers, ...extra].sort(() => 0.5 - Math.random());
+      
+      // Update memory: reset base to only the currently fully-selected items
+      localStorage.setItem('offlineAsked', JSON.stringify(selected.map(q => q.id)));
+    } else {
+      selected = [...availableQuestions].sort(() => 0.5 - Math.random()).slice(0, qCount);
+      localStorage.setItem('offlineAsked', JSON.stringify([...currentOfflineAsked, ...selected.map(q => q.id)]));
     }
-
-    selected = [...availableQuestions].sort(() => 0.5 - Math.random()).slice(0, qCount);
-
-    // Remember these new questions
-    const currentAsked = JSON.parse(localStorage.getItem('offlineAsked') || '[]');
-    localStorage.setItem('offlineAsked', JSON.stringify([...currentAsked, ...selected.map(q => q.id)]));
 
     setSelectedQuestions(selected);
     setUserAnswers({});
